@@ -1,0 +1,68 @@
+@inherits WalletParentComponent
+
+@page "/wallet"
+@page "/settings/profile"
+@page "/settings/password"
+@page "/settings/preference"
+@page "/receive-crypto-assets"
+@page "/send-crypto-assets"
+@page "/swap-crypto-assets"
+@page "/transactions"
+@page "/transaction/{TransactionId}"
+@page "/receive/{crypto}"
+@page "/send/{crypto}"
+@page "/convert/{crypto}"
+@page "/dapp-auto-trade"
+@using Client.Components.Wallet.Dapp
+@using Client.Components.Wallet.Receive
+@using Client.Components.Wallet.Send
+@using Client.Components.Wallet.Settings
+@using Client.Components.Wallet.Swap
+@using Client.Components.Wallet.Transactions
+
+<div class="nk-content nk-content-fluid" style="margin-bottom: 2rem;">
+   @if (_component == "wallet")
+   {
+      <Client.Components.Wallet.Overview.Overview />
+   }
+   @if (_component == "settings")
+   {
+      <Client.Components.Wallet.Settings.Settings />
+   }
+   @if (_component == "swap")
+   {
+      <SwapCryptoAssets />
+   }
+   @if (_component == "convert")
+   {
+      <Client.Components.Wallet.Swap.Convert crypto="@crypto" />
+   }
+   @if (_component == "transactions")
+   {
+      <Client.Components.Wallet.Transactions.Transactions />
+   }
+   @if (_component == "transaction-receive")
+   {
+      <TransactionReceive TransactionId="@TransactionId" />
+   }
+   @if (_component == "receive")
+   {
+      <ReceiveCryptoAssets />
+   }
+   @if (_component == "receive-crypto")
+   {
+      <ReceiveCryptoPage crypto="@crypto" />
+   }
+   @if (_component == "send")
+   {
+      <SendCryptoAssets />
+   }
+   @if (_component == "send-crypto")
+   {
+      <SendCryptoPage crypto="@crypto" />
+   }
+   @if (_component == "dapp")
+   {
+      <Client.Components.Wallet.Dapp.Dapp />
+   }
+</div>

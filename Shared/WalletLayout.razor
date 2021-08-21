@@ -1,0 +1,301 @@
+@using Client.Components
+@using Client.Components.Wallet
+@inherits LayoutComponentBase
+
+<link rel="stylesheet" href="stylesheets/dashlite.css?ver=2.2.0">
+<link id="skin-default" rel="stylesheet" href="stylesheets/theme.css?ver=2.2.0">
+<AuthorizeView>
+    <Authorized>
+        <div class="nk-app-root" style="background-color: white !important">
+            <!-- main @s  -->
+            <div class="nk-main ">
+                <!-- sidebar @s  -->
+                <div class="nk-sidebar nk-sidebar-fixed " data-content="sidebarMenu" style="background-color: #36454F;">
+                    <div class="nk-sidebar-element nk-sidebar-head"
+                        style="border-bottom: 1px solid #797979 !important;">
+                        <div class="nk-sidebar-brand">
+                            <NavLink href="/wallet" class="logo-link nk-sidebar-logo">
+                                <Logo />
+                            </NavLink>
+                        </div>
+                    </div><!-- .nk-sidebar-element -->
+                    <div class="nk-sidebar-element">
+                        <div class="nk-sidebar-body" data-simplebar>
+                            <div class="nk-sidebar-content">
+                                <div class="nk-sidebar-widget d-none d-xl-block">
+                                    <div class="user-account-info between-center">
+                                        <div class="user-account-main">
+                                            <h6 class="overline-title-alt">Available Balance</h6>
+                                            <div class="user-balance" style="color: #ffffff;">
+                                                @ModelManager.Wallet.AvailableBalance().ToMoneyFormat()
+                                                <small
+                                                    class="currency currency-btc">@ModelManager.Wallet.Currency</small>
+                                            </div>
+                                        </div>
+                                        <a href="/settings/profile" class="btn btn-white btn-icon btn-light"><em
+                                                class="icon ni ni-user-circle"></em></a>
+                                    </div>
+                                    <ul class="user-account-data gy-1">
+                                        <li>
+                                            <div class="user-account-label">
+                                                <span class="sub-text">last received</span>
+                                            </div>
+                                            <div class="user-account-value">
+                                                <span class="lead-text text-primary">+
+                                                    @ModelManager.Wallet.LastReceived.ToMoneyFormat() <span
+                                                        class="currency currency-btc">@ModelManager.Wallet.Currency</span></span>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="user-account-label">
+                                                <span class="sub-text">last sent</span>
+                                            </div>
+                                            <div class="user-account-value">
+                                                <span class="lead-text text-danger">-
+                                                    @ModelManager.Wallet.LastSent.ToMoneyFormat() <span
+                                                        class="currency currency-btc">@ModelManager.Wallet.Currency</span></span>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                    <div class="user-account-actions">
+                                        <ul class="g-3">
+                                            <li>
+                                                <NavLink href="h/receive-crypto-assets" class="btn btn-lg btn-primary">
+                                                    <span>Receive</span>
+                                                </NavLink>
+                                            </li>
+                                            <li>
+                                                <NavLink href="/send-crypto-assets" class="btn btn-lg btn-warning">
+                                                    <span>Send</span>
+                                                </NavLink>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div><!-- .nk-sidebar-widget -->
+                                <!-- .nk-sidebar-widget -->
+                                <div class="nk-sidebar-menu">
+                                    <!-- Menu -->
+                                    <ul class="nk-menu">
+                                        <li class="nk-menu-heading">
+                                            <h6 class="overline-title">Menu</h6>
+                                        </li>
+                                        <li class="nk-menu-item @(ActiveMenu("wallet"))">
+                                            <NavLink href="/wallet" class="nk-menu-link">
+                                                <span class="nk-menu-icon"><em class="icon ni ni-wallet"></em></span>
+                                                <span class="nk-menu-text"
+                                                    style="@(ActiveColor("wallet"))">Wallet</span>
+                                            </NavLink>
+                                        </li>
+                                        <li class="nk-menu-item @(ActiveMenu("swap-crypto-assets"))">
+                                            <NavLink href="/swap-crypto-assets" class="nk-menu-link">
+                                                <span class="nk-menu-icon"><em class="icon ni ni-exchange"></em></span>
+                                                <span class="nk-menu-text"
+                                                    style="@(ActiveColor("swap-crypto-assets"))">Swap</span>
+                                            </NavLink>
+                                        </li>
+                                        <li class="nk-menu-item @(ActiveMenu("transactions"))">
+                                            <NavLink href="/transactions" class="nk-menu-link">
+                                                <span class="nk-menu-icon"><em class="icon ni ni-cards"></em></span>
+                                                <span class="nk-menu-text"
+                                                    style="@(ActiveColor("transactions"))">Transaction</span>
+                                            </NavLink>
+                                        </li>
+                                        <li class="nk-menu-item @(ActiveMenu("settings/password"))">
+                                            <NavLink href="/settings/password" class="nk-menu-link">
+                                                <span class="nk-menu-icon"><em class="icon ni ni-lock-alt"></em></span>
+                                                <span class="nk-menu-text"
+                                                    style="@(ActiveColor("settings/password"))">Security</span>
+                                            </NavLink>
+                                        </li>
+                                        <li class="nk-menu-item">
+                                            <NavLink @onclick="@(() => AuthService.Logout())" class="nk-menu-link">
+                                                <span class="nk-menu-icon"><em class="icon ni ni-signout"></em></span>
+                                                <span class="nk-menu-text" style="color: #ffffff;">Sign Out</span>
+                                            </NavLink>
+                                        </li>
+                                    </ul><!-- .nk-menu -->
+                                </div><!-- .nk-sidebar-menu -->
+                                <!-- .nk-sidebar-widget -->
+                                <div class="nk-sidebar-footer" style="background-color: #36454F;"></div>
+                                <!-- .nk-sidebar-footer -->
+                            </div><!-- .nk-sidebar-content -->
+                        </div><!-- .nk-sidebar-body -->
+                    </div><!-- .nk-sidebar-element -->
+                </div>
+                <!-- sidebar @e  -->
+                <!-- wrap @s  -->
+                <div class="nk-wrap ">
+                    <!-- main header @s  -->
+                    <div class="nk-header nk-header-fluid nk-header-fixed is-light" style="background-color: #36454F;">
+                        <div class="container-fluid">
+                            <div class="nk-header-wrap">
+                                <div class="nk-menu-trigger d-xl-none ml-n1">
+                                </div>
+                                <div class="nk-header-brand d-xl-none">
+                                    <NavLink href="/wallet" class="logo-link">
+                                        <Logo />
+                                    </NavLink>
+                                </div>
+                                <div class="nk-header-news d-none d-xl-block">
+                                    <div class="nk-news-list">
+                                        <a class="nk-news-item" href="https://corona.help/">
+                                            <div class="nk-news-icon">
+                                                <em class="icon ni ni-card-view"></em>
+                                            </div>
+                                            <div class="nk-news-text">
+                                                <p style="color: #ffffff;">Get the latest updates on the corona virus.
+                                                    <span> Maintain proper hygiene
+                                                        and stay safe!</span></p>
+                                                <em class="icon ni ni-external"></em>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="nk-header-tools">
+                                    <ul class="nk-quick-nav">
+                                        <li class="dropdown user-dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                                <div class="user-toggle">
+                                                    <div class="user-avatar sm icon-status icon-status-info">
+                                                        <em class="icon ni ni-user-alt"></em>
+                                                    </div>
+                                                    <div class="user-info d-none d-md-block">
+                                                        <div class="user-name dropdown-indicator" style="color:#ffffff">
+                                                            @ModelManager.User.DisplayName
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </a>
+                                            <div
+                                                class="dropdown-menu dropdown-menu-md dropdown-menu-right dropdown-menu-s1">
+                                                <div class="dropdown-inner user-card-wrap bg-lighter d-none d-md-block">
+                                                    <div class="user-card">
+                                                        <div class="user-avatar">
+                                                            <span><em class="icon ni ni-user"></em></span>
+                                                        </div>
+                                                        <div class="user-info">
+                                                            <span
+                                                                class="lead-text">@ModelManager.User.DisplayName</span>
+                                                            <span class="sub-text">@ModelManager.User.Email</span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="dropdown-inner user-account-info">
+                                                    <h6 class="overline-title-alt">Available Balance</h6>
+                                                    <div class="user-balance">
+                                                        @ModelManager.Wallet.AvailableBalance().ToMoneyFormat() <small
+                                                            class="currency currency-btc">@ModelManager.Wallet.Currency</small>
+                                                    </div>
+                                                </div>
+                                                <div class="dropdown-inner">
+                                                    <ul class="link-list">
+                                                        <li>
+                                                            <NavLink href="/settings/profile"><em
+                                                                    class="icon ni ni-user-alt"></em><span>View
+                                                                    Profile</span>
+                                                            </NavLink>
+                                                        </li>
+                                                        <li>
+                                                            <NavLink href="/settings/password"><em
+                                                                    class="icon ni ni-lock-alt"></em><span>Password
+                                                                    Setting</span>
+                                                            </NavLink>
+                                                        </li>
+
+                                                    </ul>
+                                                </div>
+                                                <div class="dropdown-inner">
+                                                    <ul class="link-list">
+                                                        <li>
+                                                            <NavLink @onclick="@(() => AuthService.Logout())">
+                                                                <em class="icon ni ni-signout"></em><span>Sign
+                                                                    out</span>
+                                                            </NavLink>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- main header @e  -->
+                    @Body
+                    <!-- footer @s  -->
+                    <div class="nk-footer nk-footer-fluid" style="background-color: #36454F;">
+                        <div class="container-fluid">
+                            <div class="nk-footer-wrap">
+                                <div class="nk-footer-copyright"> &copy; 2020 Finlexis. All rights reserved
+                                </div>
+                                <div class="nk-footer-links">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- footer @e  -->
+                </div>
+                <!-- wrap @e  -->
+            </div>
+            <!-- main @e  -->
+        </div>
+
+    </Authorized>
+    <NotAuthorized>
+        <Loader/>
+    </NotAuthorized>
+</AuthorizeView>
+@code
+{
+    [Inject]
+    public AuthenticationStateProvider authStateProvider { get; set; }
+    [Inject]
+    public ModelManager ModelManager { get; set; }
+    [Inject]
+    public NavigationManager NavigationManager { get; set; }
+    [Inject]
+    public IAuthenticationService AuthService { get; set; }
+    public bool inProcess = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (inProcess) return;
+        inProcess = true;
+        try
+        {
+            ModelManager.Updated += Updated;
+            AuthenticationState authState = await authStateProvider.GetAuthenticationStateAsync();
+            if (authState == ((AuthStateProvider)authStateProvider)._anonymous)
+            {
+                ((AuthStateProvider)authStateProvider).NotifyUserLogout();
+                return;
+            }
+            await ModelManager.Download();
+        }
+        catch
+        {
+            NavigationManager.NavigateTo("/login");
+        }
+        finally
+        {
+            inProcess = false;
+        }
+        await base.OnInitializedAsync();
+    }
+    private Task Updated()
+    {
+        InvokeAsync(StateHasChanged);
+        return Task.CompletedTask;
+    }
+    public string ActiveMenu(string link)
+    {
+        string url = NavigationManager.ToBaseRelativePath(NavigationManager.Uri);
+        return url.Contains(link) ? "active" : string.Empty;
+    }
+    public string ActiveColor(string link)
+    {
+        string url = NavigationManager.ToBaseRelativePath(NavigationManager.Uri);
+        return url.Contains(link) ? string.Empty : "color:#ffffff";
+    }
+}

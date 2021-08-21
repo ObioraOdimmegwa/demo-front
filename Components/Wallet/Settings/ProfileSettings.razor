@@ -1,0 +1,123 @@
+@inherits ProfileSettingsComponent
+
+
+<div class="nk-block">
+    <div class="nk-block-head">
+        <div class="nk-block-head-content">
+            <h5 class="nk-block-title">Personal Information</h5>
+            <div class="nk-block-des">
+                <p>Basic info, like your name and address, that you use on Finlex.</p>
+                <a class="btn btn-lg btn-primary" style="color: #ffffff !important;" data-toggle="modal"
+                    data-target="#profile-edit" @onclick="(() => UpdateSuccess = string.Empty)">
+                    <span>Update</span>
+                </a>
+            </div>
+        </div>
+    </div><!-- .nk-block-head -->
+    <div class="nk-data data-list">
+        <div class="data-head">
+            <h6 class="overline-title">Basics</h6>
+        </div>
+        <div class="data-item">
+            <div class="data-col">
+                <span class="data-label">First Name</span>
+                <span class="data-value">@(string.IsNullOrEmpty(ModelManager.User.Firstname) ? "Not yet added" :
+                    ModelManager.User.Firstname)</span>
+            </div>
+        </div><!-- .data-item -->
+        <div class="data-item">
+            <div class="data-col">
+                <span class="data-label">Last Name</span>
+                <span class="data-value">@(string.IsNullOrEmpty(ModelManager.User.LastName) ? "Not yet added" :
+                    ModelManager.User.LastName)</span>
+            </div>
+        </div><!-- .data-item -->
+        <div class="data-item">
+            <div class="data-col">
+                <span class="data-label">Email</span>
+                <span class="data-value">@(string.IsNullOrEmpty(ModelManager.User.Email) ? "Not yet added" :
+                    ModelManager.User.Email)</span>
+            </div>
+        </div><!-- .data-item -->
+        <div class="data-item">
+            <div class="data-col">
+                <span class="data-label">Phone Number</span>
+                <span class="data-value text-soft">@(string.IsNullOrEmpty(ModelManager.User.Phone) ? "Not yet added" :
+                    ModelManager.User.Phone)</span>
+            </div>
+        </div><!-- .data-item -->
+        <div class="data-item">
+            <div class="data-col">
+                <span class="data-label">Address</span>
+                <span class="data-value">@(string.IsNullOrEmpty(ModelManager.User.Address) ? "Not yet added" :
+                    ModelManager.User.Address)</span>
+            </div>
+        </div><!-- .data-item -->
+    </div><!-- .nk-data -->
+</div>
+<!-- @@ Profile Edit Modal @e  -->
+<div class="modal fade" tabindex="-1" role="dialog" id="profile-edit">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+            <a href="#" class="close" data-dismiss="modal" @onclick="@(() => UpdateSuccess = string.Empty)"><em class="icon ni ni-cross-sm"></em></a>
+            <div class="modal-body modal-body-lg">
+                <ul class="nk-nav nav nav-tabs">
+                    <li class="nav-item">
+                        <a class="nav-link active" data-toggle="tab" href="#personal">Update Profile</a>
+                    </li>
+                </ul><!-- .nav-tabs -->
+                <div class="tab-content">
+                    <div class="tab-pane active" id="personal">
+                        <EditForm Model="@UpdateForm" OnValidSubmit="@OnValidSubmit">
+                            <DataAnnotationsValidator />
+                            <ValidationSummary />
+                            @if (!string.IsNullOrEmpty(UpdateSuccess))
+                            {
+                                <div class="alert alert-danger alert-dismissible bg-success" role="alert"
+                                style="color: white; border-radius: 10px">
+                                    <i class="fa fa-times-circle"></i> @UpdateSuccess
+                                    <button type="button" class="close" @onclick="@(() => {UpdateSuccess = string.Empty;})">
+                                        @* <span aria-hidden="true">&times;</span> *@
+                                    </button>
+                                </div>
+                            }
+                            <div class="row gy-4">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="form-label">First Name</label>
+                                        <input @bind="@UpdateForm.Firstname" type="text" maxlength="100"
+                                            name="Firstname" class="form-control form-control-lg">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="form-label">Last Name</label>
+                                        <input @bind="UpdateForm.Lastname" type="text" name="Lastname"
+                                            class="form-control form-control-lg" maxlength="100">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="form-label">Phone Number</label>
+                                        <input @bind="@UpdateForm.Phonenumber" type="text" name="Phonenumber"
+                                            class="form-control form-control-lg">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="form-label">Address</label>
+                                        <input @bind="@UpdateForm.Address" max="255" type="text" name="Address"
+                                            class="form-control form-control-lg">
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <button type="submit" class="btn btn-primary btn-lg">Save</button>
+                                </div>
+                            </div>
+                        </EditForm>
+                    </div><!-- .tab-pane -->
+                </div><!-- .tab-content -->
+            </div><!-- .modal-body -->
+        </div><!-- .modal-content -->
+    </div><!-- .modal-dialog -->
+</div><!-- .modal -->

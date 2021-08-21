@@ -1,0 +1,35 @@
+
+@switch (Page)
+{
+    case "":
+        <HomeBanner />
+    break;
+    case "about":
+        <AboutBanner />
+    break;
+    case "services":
+        <ServicesBanner />
+    break;
+    case "careers":
+        <CareerBanner />
+    break;
+    case "contact":
+        <ContactBanner />
+    break;
+    case "faq":
+        <FaqBanners />
+    break;
+    case "terms":
+        <TermsBanner />
+    break;
+    case "privacy":
+        <PrivacyBanner />
+    break;
+   }
+
+
+@code
+{
+    [Parameter]
+    public string Page { get; set; }
+}

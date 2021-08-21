@@ -1,0 +1,124 @@
+﻿@page "/"
+    
+    <div class="new-ticker-block new-ticker-block-section">
+        <div class="container" style="height: 600px;">
+            <!-- TradingView Widget BEGIN -->
+            <div class="tradingview-widget-container" style="height: 100%; width: 100%;">
+                <div class="tradingview-widget-container__widget" style="height: 100%; width: 100%;">
+                    <iframe allowtransparency="true" frameborder="0" src="https://www.tradingview-widget.com/embed-widget/crypto-mkt-screener/?locale=en#%7B%22width%22%3A%22100%25%22%2C%22height%22%3A%22100%25%22%2C%22defaultColumn%22%3A%22performance%22%2C%22screener_type%22%3A%22crypto_mkt%22%2C%22displayCurrency%22%3A%22USD%22%2C%22colorTheme%22%3A%22light%22%2C%22market%22%3A%22crypto%22%2C%22enableScrolling%22%3Atrue%2C%22utm_source%22%3A%22perseuswallet.com%22%2C%22utm_medium%22%3A%22widget%22%2C%22utm_campaign%22%3A%22cryptomktscreener%22%7D" style="box-sizing: border-box; height: 100%; width: 100%;"></iframe>
+                </div>
+            </div>
+            <!-- TradingView Widget END -->
+        </div>
+    </div><!-- new-ticker-block -->
+    <div class="activity-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6">
+                    <div class="activity-block">
+                        <img src="assets/images/others/32.png" style="height: 50px;" alt="img" class="img-responsive"/>
+                        <h4>
+                            Advanced Hardware Security
+                        </h4>
+                        <p>
+                            Advanced security for your cryptocurrency. Your private keys are encrypted and never leave your device. You fully control your funds. Assets stay securely offline on Trezor hardware.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="activity-block">
+                        <img src="assets/images/others/33.png" style="height: 50px;" alt="img" class="img-responsive"/>
+                        <h4>
+                            Friendly and Easy to Use
+                        </h4>
+                        <p>
+                            Finlexis is designed for people who have never used a bitcoin wallet. Ready to accept and store Bitcoin? Finlexis hides the complex details while assets are exchanged behind the scenes in seconds.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="activity-block">
+                        <img src="assets/images/others/34.png" style="height: 50px;" alt="img" class="img-responsive"/>
+                        <h4>
+                            24/7 Live Support
+                        </h4>
+                        <p>
+                            We won't leave you out on your own. Finlexis provides an online help desk and 24/7 customer support to get your questions answered, fast. Our support is always ready to help you. Get quick and efficient response via live chat or email.
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="activity-block">
+                        <img src="assets/images/others/35.png" style="height: 50px;" alt="img" class="img-responsive"/>
+                        <h4>
+                            Scalable cloud blockchain
+                        </h4>
+                        <p>
+                            Our indefinitely scalable cloud node network is solving one of the most limiting and long-due issues of the blockchain technology without compromise. You can secure your funds with easy backups and multi-sig.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div><!-- activity-section -->
+    <div class="wallets-section">
+        <div class="container">
+            <div class="setion-title-two">
+                <h5>Finlexis Wallet</h5>
+            </div>
+            <div class="row">
+                <div class="offset-lg-3 col-lg-6 offset-md-2 col-md-8">
+                    <div class="wallets-block">
+                        <img src="assets/images/phone.png" alt="img" class="img-responsive"/>
+                        <h5>Fully compatible web applications on iOS, Android, Mac & Windows</h5>
+                        <div class="download-option-block">
+                            <div class="download-wrap">
+                                <div class="download-wrap-inner">
+                                    <input type="radio" id="iPhone" name="radio" class="input-hidden">
+                                    <label for="iPhone" class="download-option">
+                                        <i class="fab fa-apple"></i>
+                                    </label>
+                                </div>
+                                <h4>iPhone</h4>
+                            </div>
+                            <div class="download-wrap">
+                                <div class="download-wrap-inner">
+                                    <input type="radio" id="Android" name="radio" class="input-hidden">
+                                    <label for="Android" class="download-option">
+                                        <i class="fab fa-android"></i>
+                                    </label>
+                                </div>
+                                <h4>Android</h4>
+                            </div>
+                            <div class="download-wrap">
+                                <div class="download-wrap-inner">
+                                    <input type="radio" id="Windows" name="radio" class="input-hidden">
+                                    <label for="Windows" class="download-option">
+                                        <i class="fab fa-windows"></i>
+                                    </label>
+                                </div>
+                                <h4>Windows</h4>
+                            </div>
+                            <div class="download-wrap">
+                                <div class="download-wrap-inner">
+                                    <input type="radio" id="iMac" name="radio" class="input-hidden">
+                                    <label for="iMac" class="download-option">
+                                        <i class="fab fa-apple"></i>
+                                    </label>
+                                </div>
+                                <h4>iMac</h4>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+@code
+{
+    protected override async Task OnInitializedAsync()
+    {
+        await base.OnInitializedAsync();
+    }
+}

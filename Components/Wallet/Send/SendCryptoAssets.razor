@@ -1,0 +1,240 @@
+@inherits SendCryptoAssetsComponent
+
+<!-- content @s  -->
+<div class="nk-content nk-content-fluid">
+    <div class="container-xl wide-lg">
+        <div class="nk-content-body">
+            <div class="buysell wide-sm m-auto">
+                <!-- .buysell-nav -->
+                <div class="buysell-title text-center">
+                    <h2 class="title">Choose Crypto To Send</h2>
+                </div><!-- .buysell-title -->
+                <div class="buysell-block">
+                    <div class="row g-2">
+                        <div class="col-sm-4">
+                            <div class="card bg-light">
+                                <div class="nk-wgw sm">
+                                    <a class="nk-wgw-inner" href="/send/BTC">
+                                        <div class="nk-wgw-name">
+                                            <div class="nk-wgw-icon" style="background-color: #f5f6fa;">
+                                                <img src="images/btc.png" sty\le="height: 20px; width: 20px;">
+                                            </div>                          
+                                            <h5 class="nk-wgw-title title">Bitcoin</h5>
+                                        </div>
+                                        <div class="nk-wgw-balance">
+                                            <div class="amount">@ModelManager.Wallet.BTC.ToCoinFormat()<span class="currency currency-nio">BTC</span>
+                                            </div>
+                                            <div class="amount" style="font-size: 9pt">@("BTC".CoinToMoney(ModelManager.Wallet.BTC,ModelManager.Wallet.Currency).ToMoneyFormat())<span
+                                                    class="currency currency-nio">@ModelManager.Wallet.Currency</span></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><!-- .col -->
+                        <div class="col-sm-4">
+                            <div class="card bg-light">
+                                <div class="nk-wgw sm">
+                                    <a class="nk-wgw-inner" href="/send/ETH">
+                                        <div class="nk-wgw-name">
+                                            <div class="nk-wgw-icon" style="background-color: #f5f6fa;">
+                                                <img src="images/eth.png" style="height: 15px; width: 15px;">
+                                            </div>
+                                            <h5 class="nk-wgw-title title">Ethereum</h5>
+                                        </div>
+                                        <div class="nk-wgw-balance">
+                                            <div class="amount">@ModelManager.Wallet.ETH.ToCoinFormat()<span class="currency currency-btc">ETH</span>
+                                            </div>
+                                            <div class="amount" style="font-size: 9pt">@("ETH".CoinToMoney(@ModelManager.Wallet.ETH,@ModelManager.Wallet.Currency).ToMoneyFormat())<span
+                                                   class="currency currency-nio">@ModelManager.Wallet.Currency</span></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><!-- .col -->
+                        <div class="col-sm-4">
+                            <div class="card bg-light">
+                                <div class="nk-wgw sm">
+                                    <a class="nk-wgw-inner" href="/send/BCH">
+                                        <div class="nk-wgw-name">
+                                            <div class="nk-wgw-icon" style="background-color: #f5f6fa;">
+                                                <img src="images/bch.png" style="height: 15px; width: 15px;">
+                                            </div>
+                                            <h5 class="nk-wgw-title title">Bitcoin Cash</h5>
+                                        </div>
+                                        <div class="nk-wgw-balance">
+                                            <div class="amount">@ModelManager.Wallet.BCH.ToCoinFormat()<span class="currency currency-eth">BCH</span>
+                                            </div>
+                                            <div class="amount" style="font-size: 9pt">@("BCH".CoinToMoney(@ModelManager.Wallet.BCH,@ModelManager.Wallet.Currency).ToMoneyFormat())<span
+                                                    class="currency currency-nio">@ModelManager.Wallet.Currency</span></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><!-- .col -->
+                        <div class="col-sm-4">
+                            <div class="card bg-light">
+                                <div class="nk-wgw sm">
+                                    <a class="nk-wgw-inner" href="/send/XRP">
+                                        <div class="nk-wgw-name">
+                                            <div class="nk-wgw-icon" style="background-color: #f5f6fa;">
+                                                <img src="images/xrp.png" style="height: 15px; width: 15px;">
+                                            </div>
+                                            <h5 class="nk-wgw-title title">Ripple</h5>
+                                        </div>
+                                        <div class="nk-wgw-balance">
+                                            <div class="amount">@ModelManager.Wallet.XRP.ToCoinFormat()<span class="currency currency-nio">XRP</span>
+                                            </div>
+                                            <div class="amount" style="font-size: 9pt">@("XRP".CoinToMoney(@ModelManager.Wallet.XRP,@ModelManager.Wallet.Currency).ToMoneyFormat())<span
+                                                    class="currency currency-nio">@ModelManager.Wallet.Currency</span></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><!-- .col -->
+                        <div class="col-sm-4">
+                            <div class="card bg-light">
+                                <div class="nk-wgw sm">
+                                    <a class="nk-wgw-inner" href="/send/USDT">
+                                        <div class="nk-wgw-name">
+                                            <div class="nk-wgw-icon" style="background-color: #f5f6fa;">
+                                                <img src="images/usdt.png" style="height: 15px; width: 15px;">
+                                            </div>
+                                            <h5 class="nk-wgw-title title">USD Tether</h5>
+                                        </div>
+                                        <div class="nk-wgw-balance">
+                                            <div class="amount">@ModelManager.Wallet.USDT.ToCoinFormat()<span class="currency currency-nio">USDT</span>
+                                            </div>
+                                            <div class="amount" style="font-size: 9pt">@("USDT".CoinToMoney(@ModelManager.Wallet.USDT,@ModelManager.Wallet.Currency).ToMoneyFormat())<span
+                                                    class="currency currency-nio">@ModelManager.Wallet.Currency</span></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><!-- .col -->
+                        <div class="col-sm-4">
+                            <div class="card bg-light">
+                                <div class="nk-wgw sm">
+                                    <a class="nk-wgw-inner" href="/send/USDD">
+                                        <div class="nk-wgw-name">
+                                            <div class="nk-wgw-icon" style="background-color: #f5f6fa;">
+                                                <img src="images/usdd.png" style="height: 15px; width: 15px;">
+                                            </div>
+                                            <h5 class="nk-wgw-title title">USD Digital</h5>
+                                        </div>
+                                        <div class="nk-wgw-balance">
+                                            <div class="amount">@ModelManager.Wallet.USDD.ToCoinFormat()<span class="currency currency-nio">USDD</span>
+                                            </div>
+                                            <div class="amount" style="font-size: 9pt">@("USDD".CoinToMoney(@ModelManager.Wallet.USDD,@ModelManager.Wallet.Currency).ToMoneyFormat())<span
+                                                    class="currency currency-nio">@ModelManager.Wallet.Currency</span></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><!-- .col -->
+                        <div class="col-sm-4">
+                            <div class="card bg-light">
+                                <div class="nk-wgw sm">
+                                    <a class="nk-wgw-inner" href="/send/BNB">
+                                        <div class="nk-wgw-name">
+                                            <div class="nk-wgw-icon" style="background-color: #f5f6fa;">
+                                                <img src="images/bnb.png" style="height: 15px; width: 15px;">
+                                            </div>
+                                            <h5 class="nk-wgw-title title">Binance Coin</h5>
+                                        </div>
+                                        <div class="nk-wgw-balance">
+                                            <div class="amount">@ModelManager.Wallet.BNB.ToCoinFormat()<span class="currency currency-eth">BNB</span>
+                                            </div>
+                                            <div class="amount" style="font-size: 9pt">@("BNB".CoinToMoney(@ModelManager.Wallet.BNB,@ModelManager.Wallet.Currency).ToMoneyFormat())<span
+                                                    class="currency currency-nio">@ModelManager.Wallet.Currency</span></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><!-- .col -->
+                        <div class="col-sm-4">
+                            <div class="card bg-light">
+                                <div class="nk-wgw sm">
+                                    <a class="nk-wgw-inner" href="/send/DOGE">
+                                        <div class="nk-wgw-name">
+                                            <div class="nk-wgw-icon" style="background-color: #f5f6fa;">
+                                                <img src="images/doge.png" style="height: 15px; width: 15px;">
+                                            </div>
+                                            <h5 class="nk-wgw-title title">Dogecoin</h5>
+                                        </div>
+                                        <div class="nk-wgw-balance">
+                                            <div class="amount">@ModelManager.Wallet.DOGE.ToCoinFormat()<span class="currency currency-eth">DOGE</span>
+                                            </div>
+                                            <div class="amount" style="font-size: 9pt">@("DOGE".CoinToMoney(@ModelManager.Wallet.DOGE,@ModelManager.Wallet.Currency).ToMoneyFormat())<span
+                                                    class="currency currency-nio">@ModelManager.Wallet.Currency</span></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><!-- .col -->
+                        <div class="col-sm-4">
+                            <div class="card bg-light">
+                                <div class="nk-wgw sm">
+                                    <a class="nk-wgw-inner" href="/send/LINK">
+                                        <div class="nk-wgw-name">
+                                            <div class="nk-wgw-icon" style="background-color: #f5f6fa;">
+                                                <img src="images/link.png" style="height: 15px; width: 15px;">
+                                            </div>
+                                            <h5 class="nk-wgw-title title">ChainLink</h5>
+                                        </div>
+                                        <div class="nk-wgw-balance">
+                                            <div class="amount">@ModelManager.Wallet.LINK.ToCoinFormat()<span class="currency currency-eth">LINK</span>
+                                            </div>
+                                            <div class="amount" style="font-size: 9pt">@("LINK".CoinToMoney(@ModelManager.Wallet.LINK,@ModelManager.Wallet.Currency).ToMoneyFormat())<span
+                                                    class="currency currency-nio">@ModelManager.Wallet.Currency</span></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><!-- .col -->
+                        <div class="col-sm-4">
+                            <div class="card bg-light">
+                                <div class="nk-wgw sm">
+                                    <a class="nk-wgw-inner" href="/send/CHZ">
+                                        <div class="nk-wgw-name">
+                                            <div class="nk-wgw-icon" style="background-color: #f5f6fa;">
+                                                <img src="images/chz.png" style="height: 15px; width: 15px;">
+                                            </div>
+                                            <h5 class="nk-wgw-title title">Chiliz</h5>
+                                        </div>
+                                        <div class="nk-wgw-balance">
+                                            <div class="amount">@ModelManager.Wallet.CHZ.ToCoinFormat()<span class="currency currency-eth">CHZ</span>
+                                            </div>
+                                            <div class="amount" style="font-size: 9pt">@("CHZ".CoinToMoney(@ModelManager.Wallet.CHZ,@ModelManager.Wallet.Currency).ToMoneyFormat())<span
+                                                    class="currency currency-nio">@ModelManager.Wallet.Currency</span></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><!-- .col -->
+                        <div class="col-sm-4">
+                            <div class="card bg-light">
+                                <div class="nk-wgw sm">
+                                    <a class="nk-wgw-inner" href="/send/DOT">
+                                        <div class="nk-wgw-name">
+                                            <div class="nk-wgw-icon" style="background-color: #f5f6fa;">
+                                                <img src="images/dot.png" style="height: 15px; width: 15px;">
+                                            </div>
+                                            <h5 class="nk-wgw-title title">Polkadot</h5>
+                                        </div>
+                                        <div class="nk-wgw-balance">
+                                            <div class="amount">@ModelManager.Wallet.DOT.ToCoinFormat()<span class="currency currency-eth">DOT</span>
+                                            </div>
+                                            <div class="amount" style="font-size: 9pt">@("DOT".CoinToMoney(@ModelManager.Wallet.DOT,@ModelManager.Wallet.Currency).ToMoneyFormat())<span
+                                                    class="currency currency-nio">@ModelManager.Wallet.Currency</span></div>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div><!-- .col -->
+                    </div><!-- .row -->
+                </div><!-- .buysell-block -->
+            </div><!-- .buysell -->
+        </div>
+    </div>
+</div>
+<!-- content @e  -->

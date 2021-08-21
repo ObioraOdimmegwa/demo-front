@@ -1,0 +1,66 @@
+@inherits CompleteRegistrationComponent
+@page "/complete-registration"
+
+<AuthorizeView>
+    <Authorized>
+        <div class="d-flex align-items-center position-relative height-lg-100vh">
+            <div class="container">
+                <div class="woocommerce">
+                    <div class="row no-gutters">
+                        <div class="col-md-8 col-lg-7 col-xl-6 offset-md-2 offset-lg-2 offset-xl-3 space-3 space-lg-0"
+                            id="customer_login">
+                            <div class="woocommerce-notices-wrapper"></div>
+                            <div class="tab-content mt-5">
+                                <div class="tab-pane active" id="customer-register-form" aria-labelledby="register-tab">
+                                    <div class="mb-7">
+                                        <p style="font-size: 1.3rem; color:#ffffff !important;">Your username is how
+                                            we'll identify you.</p>
+                                    </div>
+                                    @if (!string.IsNullOrEmpty(ErrorMessage))
+                                    {
+                                        <div class="alert alert-danger alert-dismissible bg-danger" role="alert"
+                                        style="color: white; border-radius: 10px">
+                                            <i class="fa fa-times-circle"></i> @ErrorMessage
+                                            <button type="button" class="close"
+                                            @onclick="@(() => {ErrorMessage = string.Empty;})">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                    }
+
+                                    <EditForm Context="AnotherContext" Model="@CompleteSignUpForm" class="register"
+                                        OnValidSubmit="@OnValidSubmit">
+                                        <DataAnnotationsValidator />
+                                        <ValidationSummary />
+                                        <div class="form-group">
+                                            <label class="form-label text-light" for="username">Username</label>
+                                            <input @bind="@CompleteSignUpForm.username" maxlength="50" type="text"
+                                                class="form-control input-text" name="username" id="username" />
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="form-label text-light">Please save your 12 word recovery
+                                                phrase to be
+                                                able to recover your wallet if you lose your password</label>
+                                            @foreach (string phrase in RecoveryPhrase)
+                                            {
+                                                <span class="badge area badge-success">@phrase</span>
+                                            }
+                                        </div>
+                                        <div class="row align-items-center mb-5">
+                                            <div class="col-7 col-sm-6">
+                                                <button type="submit"
+                                                    class="btn btn-light transition-3d-hover button">Enter
+                                                    Wallet</button>
+                                            </div>
+                                        </div>
+                                    </EditForm>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </Authorized>
+</AuthorizeView>

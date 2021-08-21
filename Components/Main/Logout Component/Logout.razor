@@ -1,0 +1,26 @@
+@page "/logout"
+
+@code
+{
+    public bool inProcess = false;
+    [Inject]
+    public IAuthenticationService authService { get; set; }
+    protected override async Task OnInitializedAsync()
+    {
+        if (inProcess) return;
+        inProcess = true;
+        try
+        {
+           await authService.Logout(); 
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine(e.Message);
+        }
+        finally
+        {
+            inProcess = false;
+        }
+        await base.OnInitializedAsync();
+    }
+}

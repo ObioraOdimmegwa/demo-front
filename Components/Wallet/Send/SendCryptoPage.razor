@@ -1,0 +1,69 @@
+@inherits SendCrptoPageComponent
+
+<!-- content @s  -->
+<div class="nk-content nk-content-fluid">
+    <div class="container-xl wide-lg">
+        <div class="nk-content-body">
+            <div class="buysell wide-xs m-auto">
+                <div class="buysell-nav text-center">
+                    <ul class="nk-nav nav nav-tabs nav-tabs-s2">
+                        <li class="nav-item">
+                            <a class="nav-link" href="/receive/@(crypto)">Receive</a>
+                        </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="/send/@(crypto)">Send</a>
+                        </li>
+                    </ul>
+                </div><!-- .buysell-nav -->
+                <div class="buysell-title text-center">
+                    <img src="images/@(GetCoinIcon())" style="height: 50px; width: 50px;">
+                    <h2 class="title">Send @crypto</h2>
+                </div><!-- .buysell-title -->
+                <div class="buysell-block">
+                    <EditForm Model="@SendForm" class="currency_validate" OnValidSubmit="@Send">
+                        <DataAnnotationsValidator />
+                        <ValidationSummary />
+                        @if (!string.IsNullOrEmpty(ErrorMessage))
+                        {
+                            <div class="alert alert-danger alert-dismissible bg-danger" role="alert"
+                            style="color: white; border-radius: 10px">
+                                <i class="fa fa-times-circle"></i> @ErrorMessage
+                                <button type="button" class="close" @onclick="@(() => {ErrorMessage = string.Empty;})">
+                                    @* <span aria-hidden="true">&times;</span> *@
+                                </button>
+                            </div>
+                        }
+                        <div class="form-group">
+                            <p>Wallet Address</p>
+                            <div class="input-group">
+                                <input @bind="@SendForm.Address" type="text" name="Address" style="height: 50px"
+                                    class="form-control">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <p>Amount</p>
+                            <div class="input-group">
+                                <input @bind="@SendForm.Amount" type="number" name="Amount" style="height: 50px"
+                                    class="form-control">
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <p>Password</p>
+                            <div class="input-group">
+                                <input @bind="@SendForm.Password" type="password" name="Password" style="height: 50px"
+                                    class="form-control">
+                            </div>
+                            <p>Verify that it is you <span class="text-primary"><em class="icon ni ni-info"></em></span>
+                            </p>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-lg">
+                            Send
+                        </button>
+
+                    </EditForm><!-- .buysell-form -->
+                </div><!-- .buysell-block -->
+            </div><!-- .buysell -->
+        </div>
+    </div>
+</div>
+<!-- content @e  -->

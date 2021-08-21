@@ -1,0 +1,871 @@
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Properties\launchSettings.json
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Client.StaticWebAssets.xml
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Client.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Client.pdb
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Client.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Client.pdb
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Client.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Client.pdb.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\System.Buffers.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\System.Memory.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\System.Net.Http.Json.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\System.Text.Json.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Client.csprojAssemblyReference.cache
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Client.AssemblyInfoInputs.cache
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Client.AssemblyInfo.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Client.RazorComponent.input.cache
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Client.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Client.TagHelpers.input.cache
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Client.TagHelpers.output.cache
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Client.RazorCoreGenerate.cache
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Razor\Pages\FetchData.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Index.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Client.RazorTargetAssemblyInfo.cache
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Client.csproj.CopyComplete
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\99dseBOagY3mzu5Y8Eqm8gRI_o8QbbCp7R2Ew9bQ_5E=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\n0Ag7rF7ZQamklPSZkakIXkRoa6JwlmPSS0cRaAhJQM=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\2jNkt--JGfoqWNB8whRdJotnsanWbH3FfxZWz0gyLTs=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\3trD3kyUrc0a2IrNSfLT2rSZ35MMdD2qtqG_vk_U8QA=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\tY1dlliVr_yGzBF7d0z-iaulZfBJNaSrCKDD0RP2cc8=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Client.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Client.pdb.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Client.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.Json.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Client.pdb.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\staticwebassets\Client.StaticWebAssets.Manifest.cache
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\staticwebassets\Client.StaticWebAssets.xml
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Client.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Client.pdb
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.LocalStorage.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Bunit.Core.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.LocalStorage.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Bunit.Core.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Blazored.LocalStorage.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Bunit.Core.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\Razor\Pages\Login.razor.g.cs
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\h63P3V3VGkeyevWhZZBqbi2sruaGouz0fvHR2raMPv0=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\-KxO88LopcmCHlL-8RLjXokuiCcxIz7RRGWqNaIlI2E=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\0IMatcYwuTLhZHDhLyWXBM9eIQJ1LHq6AmAhegebo-g=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\yBGdA-WBGsr_xdnzLSJh-HFRppLRc4qWmX9gvLRJh04=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\8dJdpCclXFDuZW-MGGF8PyXh7s4QrSjC65BesTzZOvY=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\nXCKZ3lsqnepGJm08nR9d17aKVnlGpqQHHexvRCuj6M=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\wB4WfCZAJe40lF9s6DPasdoVrCZUrqivPm-iFfGG-FM=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\qohgx6UXUVGuwzRXAW0wxKFTSND5cctWfzl8_2-NiWA=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\xCWT_yJdttcPshhrsg20ryKTmo4J9CwnPKadM4l2tTs=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\uffETcY3l8U2ggeV5T7MA_TqbPIIXyT1XOWxKAaC7A4=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\htT9hyXFg6CAnViWMo4MM0tqQn7KspCErLDZKrDGhpM=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\Q1KJj_mle35iHwpO7PTng85wvXD6NUQatLM-LxUJya4=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\Fo_5LQIGo3WjnGH1gMI_G2oM9JnXGXomJM-IloE-Ayc=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\5lY1KL-pA7kS-OYycrkrhkXJKFHJHVbdmUTyPYaqDiM=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.LocalStorage.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Bunit.Core.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.LocalStorage.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Bunit.Core.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.br
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\pZnAbUDCriL6tSBuOHk1agyETh7tXwu143ilT_njJXM=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\Cmq_d5lIlaa0tj9rYs-uxeadn2UcK3gwazGcBn6PAVY=.hash
+C:\Users\Expl0it90\Desktop\blazor\Client\obj\Debug\netstandard2.1\integrity\fbWO9Ns_ie5VlmVYnoJkNkmBhqhGDHuxxWDlF0GIzVI=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Client.csprojAssemblyReference.cache
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Client.AssemblyInfoInputs.cache
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Client.AssemblyInfo.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Client.csproj.CoreCompileInputs.cache
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Client.RazorComponent.input.cache
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\App.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Banners\AboutBanner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Banners\Banner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Banners\CareerBanner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Banners\ContactBanner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Banners\FaqBanners.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Banners\HomeBanner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Banners\PrivacyBanner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Banners\ServicesBanner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Banners\TermsBanner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Main\About.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Main\Careers.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Main\Contact.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Main\Faq.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Main\Home.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Main\Login Component\Login.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Main\Logout Component\Logout.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Main\Privacy.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Main\Register Component\CompleteRegistration.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Main\Register Component\Register.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Main\Reset Component\Reset.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Main\Reset Component\ResetPassword.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Main\Services.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Main\Terms.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Dapp\Dapp.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Overview\Overview.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Receive\ReceiveCryptoAssets.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Receive\ReceiveCryptoPage.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Send\SendCryptoAssets.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Send\SendCryptoPage.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Settings\PreferenceSettings.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Settings\ProfileSettings.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Settings\SecuritySettings.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Settings\Settings.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Swap\Convert.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Swap\SwapCryptoAssets.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Transactions\TransactionReceive.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Transactions\Transactions.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\WalletParent.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\AuthLayout.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\AuthNav.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\EmptyLayout.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainFooter.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\MainNavMenu.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\WalletFooter.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\WalletLayout.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\WalletNav.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\WalletSideNav.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Properties\launchSettings.json
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Client.StaticWebAssets.xml
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Client.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Client.pdb
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Client.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Newtonsoft.Json.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.LocalStorage.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Bunit.Core.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Client.pdb
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Client.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\mscorlib.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Memory.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\netstandard.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.Linq.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Core.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Xml.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Mono.Security.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Transactions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Runtime.Serialization.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ServiceModel.Internals.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Composition.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.IO.Compression.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Drawing.Common.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Data.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Newtonsoft.Json.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Buffers.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Numerics.Vectors.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Blazored.LocalStorage.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Bunit.Core.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\_bin\Client.pdb.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\wasm\dotnet.wasm.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.webassembly.js.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\wwwroot\_framework\blazor.boot.json.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Blazored.LocalStorage.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Bunit.Core.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Authorization.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.AspNetCore.Metadata.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Options.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\Newtonsoft.Json.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\System.Buffers.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\System.ComponentModel.Annotations.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\System.Memory.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\System.Net.Http.Json.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\System.Numerics.Vectors.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\System.Text.Encodings.Web.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\System.Text.Json.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\bin\Debug\netstandard2.1\System.Threading.Tasks.Extensions.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Client.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Client.TagHelpers.input.cache
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Client.TagHelpers.output.cache
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Client.RazorCoreGenerate.cache
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\App.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Banners\AboutBanner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Banners\Banner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Banners\CareerBanner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Banners\ContactBanner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Banners\FaqBanners.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Banners\HomeBanner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Banners\PrivacyBanner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Banners\ServicesBanner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Banners\TermsBanner.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Main\About.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Main\Careers.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Main\Contact.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Main\Faq.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Main\Home.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Main\Login Component\Login.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Main\Logout Component\Logout.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Main\Privacy.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Main\Register Component\CompleteRegistration.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Main\Register Component\Register.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Main\Reset Component\Reset.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Main\Reset Component\ResetPassword.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Main\Services.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Main\Terms.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Dapp\Dapp.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Overview\Overview.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Receive\ReceiveCryptoAssets.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Receive\ReceiveCryptoPage.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Send\SendCryptoAssets.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Send\SendCryptoPage.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Settings\PreferenceSettings.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Settings\ProfileSettings.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Settings\SecuritySettings.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Settings\Settings.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Swap\Convert.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Swap\SwapCryptoAssets.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Transactions\TransactionReceive.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Transactions\Transactions.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\WalletParent.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Shared\AuthLayout.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Shared\AuthNav.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Shared\EmptyLayout.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Shared\MainFooter.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Shared\MainNavMenu.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Shared\WalletFooter.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Shared\WalletLayout.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Shared\WalletNav.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Shared\WalletSideNav.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\_Imports.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Client.RazorTargetAssemblyInfo.cache
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Client.csproj.CopyComplete
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\blazor\unlinked.output
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\h63P3V3VGkeyevWhZZBqbi2sruaGouz0fvHR2raMPv0=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\-KxO88LopcmCHlL-8RLjXokuiCcxIz7RRGWqNaIlI2E=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\0IMatcYwuTLhZHDhLyWXBM9eIQJ1LHq6AmAhegebo-g=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\kL-omZDwqByAi_lPdMeDmr3XjHcn4RVb_LmZ4mut1Yc=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\BaZPMj95_YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\-cPXlNTX8GKF-lIn-2DIjtxTe0Wpy4ZDcyAj67b6JYk=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\-zcPVM75OAY_joGVM8yIC1gO1SFYWP1CFERgQ8PJkfA=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\IPbQMdJxZXdk8HTlaPyXdQ6Zb82iZLphnM74yO4EURQ=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\Zw2-5aDWjgMedporhjigwhi-UCLcfl0tfa0LXUyD9HE=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\r6QdEXq0KfB8oZDzhnV4xskSbzJA0yBVi6XFpa3TGHM=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\ob5gN-szfb1CwWnyQWvWvuid3u4df593KvZeoJQEaKc=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\6XMT1eT3svGdg6hFzAHJscYdTQjakoYccYTdHmKSr7Y=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\8g0neeYVmPrxWgbMI0ZTVO6257qMisUTPZ78egAnIMw=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\RMOYBniHZkD8OZrBV3ONIMTZqsBhSAcBFm4pVuY9dv4=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\fMngt4py0YmfHqV6eONyCI6R5m_YOE7KZ3U4MzCrskE=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\VAHA4LWcsdHUBgFG1-xwhc4IyJ0ZH9UyK9_qSPzDa6Y=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\C09aqx1vDLK7zQ9XnZcUqAgTDRwybxhRg-FR8HSk1v8=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\6mtLxbGMMGcIfch8cp0W9gmBoI493AxBRUPGEzOn3nU=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\moW4EYN6ExD6T0vSBMMggn62cZaTd8dSr9b-yj-9dPM=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\LUtkiqNd5ABTiuiYaqzaJxVjPq_Z4FqezuIWk-faqSA=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\R8CUbbWAKar388eFQJhUgiTgLEv2Mih9wr9iO0P7ImU=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\ptCMHBy9q8MMLU0ukLMuvvhQk-yYljw37MTKtfsvuFQ=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\hLbkXBzxUk9DSXYTLGRowe_80rxmpXsqEZbPIL4_5zs=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\vcCLMX4xAsUqKuQjjIkzu1O9pHGO-tdvysgSmEjL6oo=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\eejp4oI3sQBq-tI6GsJNaPu3Dkdot5Vbn8_R3w2vYLE=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\dxfTuT6ffPMmvuUUTfv7_bpLtOZZZHQdz77hjhy9qHw=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\yBGdA-WBGsr_xdnzLSJh-HFRppLRc4qWmX9gvLRJh04=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\8dJdpCclXFDuZW-MGGF8PyXh7s4QrSjC65BesTzZOvY=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\nXCKZ3lsqnepGJm08nR9d17aKVnlGpqQHHexvRCuj6M=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\cs8pHUurDt0IqbB8YXPh560au3q3J-1wRL9jBddRVmE=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\wB4WfCZAJe40lF9s6DPasdoVrCZUrqivPm-iFfGG-FM=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\qohgx6UXUVGuwzRXAW0wxKFTSND5cctWfzl8_2-NiWA=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\tmnkCmP9OzLUkpQ3LP7PRosi7gt5pyfEZCM6aqAokFI=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\LIfCYwg_PHltTK4z3EnbSkA7m2cn8JS4jHVthdKrDF8=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\xCWT_yJdttcPshhrsg20ryKTmo4J9CwnPKadM4l2tTs=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\ZxXy75PYbzJxNfAc-SAP1nUYm4gt1jSaOpFnBb9m85M=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\HQeN_ZfHAERO_uW0fP0J9J3WV1hQ3vUIOWbqGSYBPp8=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\OBWh2or_2mU6elwqPfmL72FBZVKl2WzTJ4L-IrKeXM4=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\TkH6yxFQlTfY8NfznePrCdYJiEVpM9Dqy4Uu4H9qk10=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\qAKfFnquY_7UC-MzLi04rjqEhLzTryCoLg-S6MxI19I=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\Tqh1Da_iTRQJEZUGAsMNFuZ4hf1PMf13WApRZod_uw4=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\Q1KJj_mle35iHwpO7PTng85wvXD6NUQatLM-LxUJya4=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\htT9hyXFg6CAnViWMo4MM0tqQn7KspCErLDZKrDGhpM=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\Fo_5LQIGo3WjnGH1gMI_G2oM9JnXGXomJM-IloE-Ayc=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\uffETcY3l8U2ggeV5T7MA_TqbPIIXyT1XOWxKAaC7A4=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\FJ_rEgcx6ljTxwbRXZSUGfrDKpVvOxHCSfNxbnXNn3M=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\n0Ag7rF7ZQamklPSZkakIXkRoa6JwlmPSS0cRaAhJQM=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\2jNkt--JGfoqWNB8whRdJotnsanWbH3FfxZWz0gyLTs=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\mQqyOIjuVduaLQ7ZyvDrChDLp8rTeQknIIWDzqsO4eY=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\3trD3kyUrc0a2IrNSfLT2rSZ35MMdD2qtqG_vk_U8QA=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\tY1dlliVr_yGzBF7d0z-iaulZfBJNaSrCKDD0RP2cc8=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\r8LuqDQgcB-c3E48xHqsAY1eRZB1ZtuqZF6nlufn7kg=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\DrtNiKIMjfSOdamH5Bs5zHmjFADgNiwrY5tRgTm6XuI=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\_kkwUt5LUrFrnFcHiSvLP3Ps50UAimB6C5utgehqOo4=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\czNf3btAeBW-vvID5LAfgcsNZ_GM3ssVuPaMflcg0rs=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\5lY1KL-pA7kS-OYycrkrhkXJKFHJHVbdmUTyPYaqDiM=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\3S0qzYaBEKOBXarzVLNzNAFXlwJr6nI3lFlYUpQTPH8=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\UC-3Rm1NkdNdlIrzYARo_dO-HDlS5mhPxo0IQv7kma8=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\SPHS1EAPAcMFN4TEIUYl3FWtoCQTsNJch0XVGgok1eE=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\blazor\blazor.boot.json
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Client.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Newtonsoft.Json.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.LocalStorage.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Bunit.Core.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Client.pdb.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.gz
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Client.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Authorization.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Options.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Primitives.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.CompilerServices.Unsafe.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\mscorlib.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Memory.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\netstandard.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.Linq.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Core.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Net.WebSockets.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\WebAssembly.Bindings.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Xml.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Mono.Security.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Transactions.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Runtime.Serialization.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ServiceModel.Internals.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Net.Http.WebAssemblyHttpHandler.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Composition.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.FileSystem.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.IO.Compression.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Drawing.Common.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.DataSetExtensions.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Data.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Metadata.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.Abstractions.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Newtonsoft.Json.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Web.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Forms.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.Annotations.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.ComponentModel.DataAnnotations.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Buffers.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Json.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Bcl.AsyncInterfaces.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Threading.Tasks.Extensions.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Numerics.Vectors.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\System.Text.Encodings.Web.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.LocalStorage.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Bunit.Core.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.DependencyInjection.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.WebAssembly.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Abstractions.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.Json.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Configuration.FileExtensions.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Physical.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileSystemGlobbing.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.FileProviders.Abstractions.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.Extensions.Logging.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.JSInterop.WebAssembly.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Microsoft.AspNetCore.Components.Authorization.dll.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Client.pdb.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.3.2.0.js.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.timezones.dat.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\wasm\dotnet.wasm.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.webassembly.js.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\compressed\_framework\blazor.boot.json.br
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\staticwebassets\Client.StaticWebAssets.Manifest.cache
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\staticwebassets\Client.StaticWebAssets.xml
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Client.dll
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Client.pdb
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\WalletNavs.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Shared\WalletNavs.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\WalletLayout_DEL.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Shared\WalletLayout_DEL.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Logo.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Logo.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Loader.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Loader.razor.g.cs
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\erjWn8gfDZDtd-_9rj55tErRV1nIUM7HYHpcEtP2iUU=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\dEBgoyz_KG8qebftIOEHjJ171OqyqNSOPkYoN_HiOnM=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\XcqlDcg2MyemFtR96O2AFifGXu-Uot5xPQAIupMvju4=.hash

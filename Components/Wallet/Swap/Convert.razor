@@ -1,0 +1,52 @@
+@inherits ConvertComponent
+
+<!-- content @s  -->
+<div class="nk-content nk-content-fluid">
+    <div class="container-xl wide-lg">
+        <div class="nk-content-body">
+            <div class="buysell wide-xs m-auto">
+                <div class="buysell-title text-center">
+                    <h2 class="title">
+                        Swap @crypto To Fiat
+                    </h2>
+                </div><!-- .buysell-title -->
+                @if (!string.IsNullOrEmpty(ErrorMessage))
+                {
+                    <div class="alert alert-danger alert-dismissible bg-danger" role="alert"
+                    style="color: white; border-radius: 10px">
+                        <i class="fa fa-times-circle"></i> @ErrorMessage
+                        <button type="button" class="close" @onclick="@(() => {ErrorMessage = string.Empty;})">
+                            @* <span aria-hidden="true">&times;</span> *@
+                        </button>
+                    </div>
+                }
+                <div class="buysell-block">
+
+                    <div class="form-group">
+                    </div>
+                    <div class="form-group">
+                        <p>Swap To</p>
+                        <div class="input-group mb-3">
+                            <select name="to" style="height: 50px" class="form-control">
+                                @foreach (StableCoin scoin in USDList.StableCoins)
+                                {
+                                    <option value="@scoin.Text">@scoin.Text</option>
+                                }
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <p>Enter Amount</p>
+                        <div class="input-group">
+                            <input @bind="@SwapAmount" type="number" name="SwapAmount" style="height: 50px"
+                                class="form-control">
+                        </div>
+                    </div>
+                    <button @onclick="@Swap" class="btn btn-primary btn-lg">
+                        Swap
+                    </button>
+                </div><!-- .buysell-block -->
+            </div><!-- .buysell -->
+        </div>
+    </div>
+</div>

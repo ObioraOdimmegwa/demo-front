@@ -1,0 +1,161 @@
+@inherits SecuritySettingsComponent
+
+<!-- content @s  -->
+<div class="nk-block">
+    <div class="nk-block-head">
+        <div class="nk-block-head-content">
+            <h5 class="nk-block-title">Security Settings</h5>
+            <div class="nk-block-des">
+                <p>These settings helps you keep your account secure.</p>
+            </div>
+        </div>
+    </div><!-- .nk-block-head -->
+    @if (!string.IsNullOrEmpty(SuccessMessage))
+    {
+        <div class="alert alert-success alert-dismissible bg-success" role="alert"
+        style="color: white; border-radius: 10px">
+            <i class="fa fa-times-circle"></i> @SuccessMessage
+            <button type="button" class="close"
+            @onclick="@(() => {SuccessMessage = string.Empty; ErrorMessage = string.Empty;})"></button>
+        </div>
+    }
+    @if (!string.IsNullOrEmpty(ErrorMessage))
+    {
+        <div class="alert alert-danger alert-dismissible bg-danger" role="alert"
+        style="color: white; border-radius: 10px; background-color:#e4fbf5; border-color:#aef4e1;">
+            <i class="fa fa-times-circle"></i> @ErrorMessage
+            <button type="button" class="close"
+            @onclick="@(() => {SuccessMessage = string.Empty; ErrorMessage = string.Empty;})"></button>
+        </div>
+    }
+    <div class="card card-bordered">
+        <div class="card-inner-group">
+            <div class="card-inner">
+                <div class="between-center flex-wrap flex-md-nowrap g-3">
+                    <div class="nk-block-text">
+                        <h6>Change Password</h6>
+                        <p>Set a unique password to protect your account.</p>
+                    </div>
+                    <div class="nk-block-actions flex-shrink-sm-0">
+                        <ul class="align-center flex-wrap flex-sm-nowrap gx-3 gy-2">
+                            <li class="order-md-last">
+                                <a @onclick="@(() => {PasswordChangeError = string.Empty; PasswordChangeSuccess = string.Empty;})"
+                                    style="color: #ffffff !important;" data-toggle="modal" data-target="#password-edit"
+                                    class="btn btn-primary">
+                                    Change Password
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div><!-- .card-inner -->
+            <div class="card-inner">
+                <div class="between-center flex-wrap flex-md-nowrap g-3">
+                    <div class="nk-block-text">
+                        <h6>2FA Authentication
+                            <span
+                                class="badge @(ModelManager.User.TwoFactorEnabled ? "badge-success" : "badge-danger")">@(ModelManager.User.TwoFactorEnabled
+                                ? "Enabled" : "Disabled")</span>
+                        </h6>
+                        <p>Secure your account with 2FA security. When it is activated you will need to
+                            enter not only your password, but also a special code which will be sent to your
+                            email. </p>
+                    </div>
+                    <div class="nk-block-actions">
+                        <div class="form-actions">
+                            <button @onclick="@ChangeTwoFactorAuth"
+                                class="btn @(ModelManager.User.TwoFactorEnabled ? "btn-light" : "btn-primary")">@(ModelManager.User.TwoFactorEnabled
+                                ? "Disable" : "Enable")</button>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- .card-inner -->
+            <div class="card-inner">
+                <div class="between-center flex-wrap flex-md-nowrap g-3">
+                    <div class="nk-block-text">
+                        <h6>Recovery Phrase</h6>
+                        <p>Use your 12 key recovery phrase to recover your wallet.</p>
+                        <p>
+                            @if(ShowRecoveryPhrase)
+                            {
+                                @foreach (string phrase in ModelManager.User.RecoveryPhrase.Split(" "))
+                                {
+                                    <span class="badge badge-success">@phrase</span>
+                                }
+                            }
+                        </p>
+                    </div>
+                    <div class="nk-block-actions flex-shrink-sm-0">
+                        <div class="form-actions">
+                            <button @onclick="@(() => ShowRecoveryPhrase = !ShowRecoveryPhrase)" class="btn @(ShowRecoveryPhrase ? "btn-light" : "btn-primary")">
+                                @(ShowRecoveryPhrase ? "Hide Phrase" : "Show Phrase")
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- .card-inner -->
+        </div><!-- .card-inner-group -->
+    </div><!-- .card -->
+</div><!-- .nk-block -->
+
+<!-- @@ Password Edit Modal @e  -->
+<div class="modal fade" tabindex="-1" role="dialog" id="password-edit">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+            <a @onclick="(() => {PasswordChangeError = string.Empty; PasswordChangeSuccess = string.Empty;})" href="#"
+                class="close" data-dismiss="modal"><em class="icon ni ni-cross-sm"></em></a>
+            <div class="modal-body modal-body-lg">
+                <ul class="nk-nav nav nav-tabs">
+                    <li class="nav-item">
+                        <a class="nav-link active" data-toggle="tab" href="#personal">Change Password</a>
+                    </li>
+                </ul><!-- .nav-tabs -->
+                <div class="tab-content">
+                    <div class="tab-pane active" id="personal">
+                        <EditForm Model="@ChangePasswordForm" OnValidSubmit="@OnValidPasswordChangeSubmit">
+                            <DataAnnotationsValidator />
+                            <ValidationSummary />
+                            @if (!string.IsNullOrEmpty(PasswordChangeSuccess))
+                            {
+                                <div class="alert alert-danger alert-dismissible bg-success" role="alert"
+                                style="color: white; border-radius: 10px">
+                                    <i class="fa fa-times-circle"></i> @PasswordChangeSuccess
+                                    <button type="button" class="close"
+                                    @onclick="@(() => {PasswordChangeSuccess = string.Empty; PasswordChangeError = string.Empty;})"></button>
+                                </div>
+                            }
+                            @if (!string.IsNullOrEmpty(PasswordChangeError))
+                            {
+                                <div class="alert alert-danger alert-dismissible bg-danger" role="alert"
+                                style="color: white; border-radius: 10px">
+                                    <i class="fa fa-times-circle"></i> @PasswordChangeError
+                                    <button type="button" class="close"
+                                    @onclick="@(() => {PasswordChangeSuccess = string.Empty; PasswordChangeError = string.Empty;})"></button>
+                                </div>
+                            }
+                            <div class="row gy-4">
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="form-label">Current Password</label>
+                                        <input @bind="@ChangePasswordForm.CurrentPassword" type="password"
+                                            name="CurrentPassword" class="form-control form-control-lg">
+                                    </div>
+                                </div>
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label class="form-label">New Password</label>
+                                        <input @bind="@ChangePasswordForm.NewPassword" type="password"
+                                            name="NewPassword" class="form-control form-control-lg">
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <button type="submit" class="btn btn-primary btn-lg">Save</button>
+                                </div>
+                            </div>
+                        </EditForm>
+                    </div><!-- .tab-pane -->
+                </div><!-- .tab-content -->
+            </div><!-- .modal-body -->
+        </div><!-- .modal-content -->
+    </div><!-- .modal-dialog -->
+</div><!-- .modal -->

@@ -1,0 +1,72 @@
+@inherits TransactionReceiveComponent
+
+<!-- content @s  -->
+<div class="nk-content nk-content-fluid">
+    <div class="container-xl wide-lg">
+        <div class="nk-content-body">
+            <div class="buysell wide-xs m-auto">
+                <!-- .buysell-nav -->
+                <div class="buysell-title text-center">
+                    <img src="images/@(CoinIcon)" style="height: 50px; width: 50px;">
+                    <h2 class="title">Transaction Details</h2>
+                </div><!-- .buysell-title -->
+                <div class="buysell-block">
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="identity-content">
+                                <div class="form-group">
+                                    <div class="input-group">
+                                        <img width="100%" height="270px"
+                                            src="https://chart.googleapis.com/chart?chs=250x250&cht=qr&chl=@(Coin):@(Address)?amount=@(Amount)"
+                                            alt="@Address">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6">
+                            <form class="currency_validate">
+                                <div class="form-group">
+                                    <label class="mr-sm-2"></label>
+                                    <div class="input-group">
+                                        <input class="form-control js-copytextarea"
+                                            style="width:90%; border: 1px solid #fff;"
+                                            value="@Address" readonly>
+                                    </div>
+                                    <br>
+                                    <p>We strongly advise that you send exactly <b>@Transaction.Amount.ToMoneyFormat() @Transaction.Currency</b> to your generated wallet
+                                        address for faster blockchain confirmation.</p>
+                                </div>
+
+                                <div class="form-group">
+                                    <button type="button" class="btn btn-primary btn-block js-textareacopybtn">
+                                        Copy Your Address
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                        <div class="col-sm-12">
+                            <form action="#" class="identity-upload">
+                                <div class="identity-content">
+                                    <br><br>
+                                    <h5>Finding it difficult to purchase bitcoin?</h5>
+                                    <p>Copy your generated wallet address and visit either of these platforms to
+                                        purchase bitcoin and store in your Finlexis Wallet</p>
+                                    <a href="https://www.coinmama.com/"
+                                        style="text-decoration: underline"><b>Coinmama.com</b></a><br>
+                                    <a href="https://crypto.com/en/index.html"
+                                        style="text-decoration: underline"><b>Crypto.com</b></a><br>
+                                    <a href="https://www.luno.com/en/"
+                                        style="text-decoration: underline"><b>Luno.com</b></a><br>
+
+                                    <br>
+                                    <p>After successful purchase, transfer bitcoin to your Finlexis Wallet via your
+                                        generated wallet address</p>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div><!-- .buysell-block -->
+            </div><!-- .buysell -->
+        </div>
+    </div>
+</div>

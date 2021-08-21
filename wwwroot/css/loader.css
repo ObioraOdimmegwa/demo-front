@@ -1,0 +1,8 @@
+section{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: url("../assets/images/bg/0.png") no-repeat center center;
+    background-size: cover;
+}

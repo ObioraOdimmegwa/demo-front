@@ -1,0 +1,89 @@
+@inherits PreferenceSettingsComponent
+
+<div class="nk-block">
+    <div class="nk-block-head">
+        <div class="nk-block-head-content">
+            <h5 class="nk-block-title">Preference Settings</h5>
+            <div class="nk-block-des">
+                <p>Customise your wallet with your preferred settings.</p>
+            </div>
+
+        </div>
+    </div><!-- .nk-block-head -->
+    <div class="card card-bordered">
+        <div class="card-inner-group">
+            <div class="card-inner">
+                <div class="between-center flex-wrap flex-md-nowrap g-3">
+                    <div class="nk-block-text">
+                        <h6>Default Currency</h6>
+                        <p>Set a default currency for your wallet.</p>
+                    </div>
+                    <div class="nk-block-actions flex-shrink-sm-0">
+                        <ul class="align-center flex-wrap flex-sm-nowrap gx-3 gy-2">
+                            <li class="order-md-last">
+                                <a  @onclick="(() => {SuccessMessage = string.Empty; ErrorMessage = string.Empty;})" href="#" data-toggle="modal" data-target="#currency-edit"
+                                    class="btn btn-primary">Choose</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div><!-- .card-inner -->
+            <!-- .card-inner -->
+        </div><!-- .card-inner-group -->
+    </div><!-- .card -->
+</div><!-- .nk-block -->
+
+<!-- @@ Password Edit Modal @e  -->
+<div class="modal fade" tabindex="-1" role="dialog" id="currency-edit">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+            <a href="#" class="close" data-dismiss="modal"><em class="icon ni ni-cross-sm"></em></a>
+            <div class="modal-body modal-body-lg">
+                <ul class="nk-nav nav nav-tabs">
+                    <li class="nav-item">
+                        <a @onclick="(() => {SuccessMessage = string.Empty; ErrorMessage = string.Empty;})" class="nav-link active" data-toggle="tab" href="#personal">Change Currency</a>
+                    </li>
+                </ul><!-- .nav-tabs -->
+                @if (!string.IsNullOrEmpty(SuccessMessage))
+                {
+                    <div class="alert alert-danger alert-dismissible bg-success" role="alert"
+                    style="color: white; border-radius: 10px">
+                        <i class="fa fa-times-circle"></i> @SuccessMessage
+                        <button type="button" class="close"
+                        @onclick="@(() => {SuccessMessage = string.Empty; ErrorMessage = string.Empty;})"></button>
+                    </div>
+                }
+                @if (!string.IsNullOrEmpty(ErrorMessage))
+                {
+                    <div class="alert alert-danger alert-dismissible bg-success" role="alert"
+                    style="color: white; border-radius: 10px">
+                        <i class="fa fa-times-circle"></i> @ErrorMessage
+                        <button type="button" class="close"
+                        @onclick="@(() => {SuccessMessage = string.Empty; ErrorMessage = string.Empty;})"></button>
+                    </div>
+                }
+                <div class="tab-content">
+                    <div class="tab-pane active" id="personal">
+                        <div class="row gy-4">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <label class="form-label">Currency</label>
+                                    <select @bind="@NewCurrency" class="form-control form-control-lg"
+                                        name="NewCurrency">
+                                        @foreach (string currency in Currencies.List)
+                                        {
+                                            <option value="@currency">@currency</option>
+                                        }
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <button @onclick="@ChangeCurrency" class="btn btn-primary btn-lg">Save</button>
+                            </div>
+                        </div>
+                    </div><!-- .tab-pane -->
+                </div><!-- .tab-content -->
+            </div><!-- .modal-body -->
+        </div><!-- .modal-content -->
+    </div><!-- .modal-dialog -->
+</div><!-- .modal -->

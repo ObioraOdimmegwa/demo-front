@@ -1,0 +1,53 @@
+@inherits ReceiveCryptoPageComponent
+
+<!-- content @s  -->
+<div class="nk-content nk-content-fluid">
+    <div class="container-xl wide-lg">
+        <div class="nk-content-body">
+            <div class="buysell wide-xs m-auto">
+                <div class="buysell-nav text-center">
+                    <ul class="nk-nav nav nav-tabs nav-tabs-s2">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="/receive/@crypto">Receive</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="/send/@crypto">Send</a>
+                        </li>
+                    </ul>
+                </div><!-- .buysell-nav -->
+                <div class="buysell-title text-center">
+                    <img src="images/@GetCoinIcon()" style="height: 50px; width: 50px;">
+                    <h2 class="title">Receive @crypto</h2>
+                </div><!-- .buysell-title -->
+                <EditForm Model="@ReceiveForm" OnValidSubmit="@GenerateAddress">
+                    <DataAnnotationsValidator />
+                    <ValidationSummary />
+                    <div class="buysell-block">
+                        <div class="form-group">
+                            <p>Choose Currency</p>
+                            <div class="input-group mb-3">
+                                <select @bind="@ReceiveForm.Currency" name="Currency" style="height: 50px" class="form-control">
+                                    @foreach (string curr in Currencies.List)
+                                    {
+                                        <option value="@curr">@curr</option>
+                                    }
+                                </select>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <p>Amount</p>
+                            <div class="input-group">
+                                <input @bind="@ReceiveForm.Amount" type="number" name="Amount" style="height: 50px"
+                                    class="form-control">
+                            </div>
+                        </div>
+                        <button type="submit" class="btn btn-primary btn-lg">
+                            Generate Unique Address
+                        </button>
+                    </div>
+                </EditForm><!-- .buysell-block -->
+            </div><!-- .buysell -->
+        </div>
+    </div>
+</div>
+<!-- content @e  -->

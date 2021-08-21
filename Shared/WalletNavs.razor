@@ -1,0 +1,301 @@
+@inherits LayoutComponentBase
+
+    <!-- sidebar @s  -->
+    <div class="nk-sidebar nk-sidebar-fixed " data-content="sidebarMenu">
+        <div class="nk-sidebar-element nk-sidebar-head">
+            <div class="nk-sidebar-brand">
+                <NavLink href="/" class="logo-link nk-sidebar-logo">
+                    <img class="logo-light logo-img" src="temp/images/logo.png" alt="logo"
+                        style="height: 10px !important; width: 100px !important;">
+                </NavLink>
+            </div>
+        </div><!-- .nk-sidebar-element -->
+        <div class="nk-sidebar-element">
+            <div class="nk-sidebar-body" data-simplebar>
+                <div class="nk-sidebar-content">
+                    <div class="nk-sidebar-widget d-none d-xl-block">
+                        <div class="user-account-info between-center">
+                            <div class="user-account-main">
+                                <h6 class="overline-title-alt">Available Balance</h6>
+                                <div class="user-balance">0.00 <small class="currency currency-btc">USD</small></div>
+                            </div>
+                            <NavLink href="/settings/profile"
+                                class="btn btn-white btn-icon btn-light"><em class="icon ni ni-user-circle"></em>
+                            </NavLink>
+                        </div>
+                        <ul class="user-account-data gy-1">
+                            <li>
+                                <div class="user-account-label">
+                                    <span class="sub-text">last received</span>
+                                </div>
+                                <div class="user-account-value">
+                                    <span class="lead-text text-primary">+ 0 <span
+                                            class="currency currency-btc">USD</span></span>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="user-account-label">
+                                    <span class="sub-text">last sent</span>
+                                </div>
+                                <div class="user-account-value">
+                                    <span class="lead-text text-danger">- 0 <span
+                                            class="currency currency-btc">USD</span></span>
+                                </div>
+                            </li>
+                        </ul>
+                        <div class="user-account-actions">
+                            <ul class="g-3">
+                                <li>
+                                    <NavLink href="/receive-crypto-assets"
+                                        class="btn btn-lg btn-primary"><span>Receive</span>
+                                    </NavLink>
+                                </li>
+                                <li>
+                                    <NavLink href="/send-crypto-assets"
+                                        class="btn btn-lg btn-warning"><span>Send</span>
+                                    </NavLink>
+                                </li>
+                            </ul>
+                        </div>
+                    </div><!-- .nk-sidebar-widget -->
+                    <div class="nk-sidebar-menu">
+                        <!-- Menu -->
+                        <ul class="nk-menu">
+                            <li class="nk-menu-heading">
+                                <h6 class="overline-title">Menu</h6>
+                            </li>
+                            <li class="nk-menu-item">
+                                <a href="https://perseuswallet.com/wallet" class="nk-menu-link">
+                                    <span class="nk-menu-icon"><em class="icon ni ni-wallet"></em></span>
+                                    <span class="nk-menu-text">Wallet</span>
+                                </a>
+                            </li>
+                            <li class="nk-menu-item">
+                                <a href="https://perseuswallet.com/swap-crypto-assets" class="nk-menu-link">
+                                    <span class="nk-menu-icon"><em class="icon ni ni-exchange"></em></span>
+                                    <span class="nk-menu-text">Swap</span>
+                                </a>
+                            </li>
+                            <li class="nk-menu-item">
+                                <a href="https://perseuswallet.com/transactions" class="nk-menu-link">
+                                    <span class="nk-menu-icon"><em class="icon ni ni-cards"></em></span>
+                                    <span class="nk-menu-text">Transaction</span>
+                                </a>
+                            </li>
+                            <li class="nk-menu-item">
+                                <a href="https://perseuswallet.com/settings/password" class="nk-menu-link">
+                                    <span class="nk-menu-icon"><em class="icon ni ni-lock-alt"></em></span>
+                                    <span class="nk-menu-text">Security</span>
+                                </a>
+                            </li>
+                            <li class="nk-menu-item">
+                                <a href="javascript: void (0);"
+                                    onclick="event.preventDefault(); document.getElementById('logout-form').submit();"
+                                    class="nk-menu-link">
+                                    <span class="nk-menu-icon"><em class="icon ni ni-signout"></em></span>
+                                    <span class="nk-menu-text">Sign Out</span>
+                                </a>
+                            </li>
+                        </ul><!-- .nk-menu -->
+                    </div><!-- .nk-sidebar-menu -->
+                    <div class="nk-sidebar-widget">
+                        <div class="widget-title">
+                            <h6 class="overline-title">Crypto Accounts</h6>
+                        </div>
+                        <ul class="wallet-list">
+                            <li class="wallet-item">
+                                <a href="https://perseuswallet.com/receive/BTC">
+                                    <div class="wallet-icon"><img src="../../../images/btc.png"
+                                            style="height: 20px; width: 20px;"></div>
+                                    <div class="wallet-text">
+                                        <h6 class="wallet-name">Bitcoin</h6>
+                                        <span class="wallet-balance">0.00000 <span
+                                                class="currency currency-nio">BTC</span></span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="wallet-item">
+                                <a href="https://perseuswallet.com/receive/ETH">
+                                    <div class="wallet-icon"><img src="../../../images/eth.png"
+                                            style="height: 15px; width: 15px;"></div>
+                                    <div class="wallet-text">
+                                        <h6 class="wallet-name">Ethereum</h6>
+                                        <span class="wallet-balance">0.00000 <span
+                                                class="currency currency-btc">ETH</span></span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="wallet-item">
+                                <a href="https://perseuswallet.com/receive/BCH">
+                                    <div class="wallet-icon"><img src="../../../images/bch.png"
+                                            style="height: 15px; width: 15px;"></div>
+                                    <div class="wallet-text">
+                                        <h6 class="wallet-name">Bitcoin Cash</h6>
+                                        <span class="wallet-balance">0.00000 <span
+                                                class="currency currency-btc">BCH</span></span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="wallet-item">
+                                <a href="https://perseuswallet.com/receive/XRP">
+                                    <div class="wallet-icon"><img src="../../../images/xrp.png"
+                                            style="height: 15px; width: 15px;"></div>
+                                    <div class="wallet-text">
+                                        <h6 class="wallet-name">Ripple</h6>
+                                        <span class="wallet-balance">0.00000 <span
+                                                class="currency currency-btc">XRP</span></span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="wallet-item">
+                                <a href="https://perseuswallet.com/receive/BNB">
+                                    <div class="wallet-icon"><img src="../../../images/bnb.png"
+                                            style="height: 15px; width: 15px;"></div>
+                                    <div class="wallet-text">
+                                        <h6 class="wallet-name">Binance Coin</h6>
+                                        <span class="wallet-balance">0.00000 <span
+                                                class="currency currency-btc">BNB</span></span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="wallet-item">
+                                <a href="https://perseuswallet.com/receive/DOGE">
+                                    <div class="wallet-icon"><img src="../../../images/doge.png"
+                                            style="height: 15px; width: 15px;"></div>
+                                    <div class="wallet-text">
+                                        <h6 class="wallet-name">Dogecoin</h6>
+                                        <span class="wallet-balance">0.00000 <span
+                                                class="currency currency-btc">DOGE</span></span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="wallet-item">
+                                <a href="https://perseuswallet.com/receive/LINK">
+                                    <div class="wallet-icon"><img src="../../../images/link.png"
+                                            style="height: 15px; width: 15px;"></div>
+                                    <div class="wallet-text">
+                                        <h6 class="wallet-name">ChainLink</h6>
+                                        <span class="wallet-balance">0.00000 <span
+                                                class="currency currency-btc">LINK</span></span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="wallet-item">
+                                <a href="https://perseuswallet.com/receive/CHZ">
+                                    <div class="wallet-icon"><img src="../../../images/chz.png"
+                                            style="height: 15px; width: 15px;"></div>
+                                    <div class="wallet-text">
+                                        <h6 class="wallet-name">Chiliz</h6>
+                                        <span class="wallet-balance">0.00000 <span
+                                                class="currency currency-btc">CHZ</span></span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="wallet-item">
+                                <a href="https://perseuswallet.com/receive/DOT">
+                                    <div class="wallet-icon"><img src="../../../images/dot.png"
+                                            style="height: 15px; width: 15px;"></div>
+                                    <div class="wallet-text">
+                                        <h6 class="wallet-name">Polkadot</h6>
+                                        <span class="wallet-balance">0.00000 <span
+                                                class="currency currency-btc">DOT</span></span>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </div><!-- .nk-sidebar-widget -->
+                    <div class="nk-sidebar-footer"></div><!-- .nk-sidebar-footer -->
+                </div><!-- .nk-sidebar-content -->
+            </div><!-- .nk-sidebar-body -->
+        </div><!-- .nk-sidebar-element -->
+    </div>
+    <!-- sidebar @e  -->
+    <!-- wrap @s  -->
+    <div class="nk-wrap ">
+        <!-- main header @s  -->
+        <div class="nk-header nk-header-fluid nk-header-fixed is-light">
+            <div class="container-fluid">
+                <div class="nk-header-wrap">
+                    <div class="nk-menu-trigger d-xl-none ml-n1">
+                        <a href="#" class="nk-nav-toggle nk-quick-nav-icon" data-target="sidebarMenu"><em
+                                class="icon ni ni-menu"></em></a>
+                    </div>
+                    <div class="nk-header-brand d-xl-none">
+                        <a href="https://perseuswallet.com/wallet" class="logo-link">
+                            <img class="logo-light logo-img" src="../../../temp/images/logo.png" alt="logo"
+                                style="height: 10px !important; width: 100px !important;">
+                            <img class="logo-dark logo-img" src="../../../temp/images/logo-dark.png" alt="logo-dark"
+                                style="height: 10px !important; width: 100px !important;">
+                        </a>
+                    </div>
+                    <div class="nk-header-news d-none d-xl-block">
+                        <div class="nk-news-list">
+                            <a class="nk-news-item" href="https://corona.help/">
+                                <div class="nk-news-icon">
+                                    <em class="icon ni ni-card-view"></em>
+                                </div>
+                                <div class="nk-news-text">
+                                    <p>Get the latest updates on the corona virus. <span> Maintain proper hygiene and
+                                            stay safe!</span></p>
+                                    <em class="icon ni ni-external"></em>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="nk-header-tools">
+                        <ul class="nk-quick-nav">
+                            <li class="dropdown user-dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <div class="user-toggle">
+                                        <div class="user-avatar sm icon-status icon-status-info">
+                                            <em class="icon ni ni-user-alt"></em>
+                                        </div>
+                                        <div class="user-info d-none d-md-block">
+                                            <div class="user-name dropdown-indicator">RickSanchez</div>
+                                        </div>
+                                    </div>
+                                </a>
+                                <div class="dropdown-menu dropdown-menu-md dropdown-menu-right dropdown-menu-s1">
+                                    <div class="dropdown-inner user-card-wrap bg-lighter d-none d-md-block">
+                                        <div class="user-card">
+                                            <div class="user-avatar">
+                                                <span><em class="icon ni ni-user"></em></span>
+                                            </div>
+                                            <div class="user-info">
+                                                <span class="lead-text">RickSanchez</span>
+                                                <span class="sub-text">Fignenuspo@biyac.com</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-inner user-account-info">
+                                        <h6 class="overline-title-alt">Available Balance</h6>
+                                        <div class="user-balance">0.00 <small class="currency currency-btc">USD</small>
+                                        </div>
+                                    </div>
+                                    <div class="dropdown-inner">
+                                        <ul class="link-list">
+                                            <li><a href="https://perseuswallet.com/settings/profile"><em
+                                                        class="icon ni ni-user-alt"></em><span>View Profile</span></a>
+                                            </li>
+                                            <li><a href="https://perseuswallet.com/settings/password"><em
+                                                        class="icon ni ni-lock-alt"></em><span>Password
+                                                        Setting</span></a></li>
+
+                                        </ul>
+                                    </div>
+                                    <div class="dropdown-inner">
+                                        <ul class="link-list">
+                                            <li><a href="javascript: void (0);"
+                                                    onclick="event.preventDefault(); document.getElementById('logout-form').submit();"><em
+                                                        class="icon ni ni-signout"></em><span>Sign out</span></a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- main header @e  -->
+    </div>

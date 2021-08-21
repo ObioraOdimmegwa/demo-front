@@ -1,0 +1,97 @@
+@inherits LoginComponent
+
+@page "/login"
+
+<div class="d-flex align-items-center position-relative height-lg-100vh">
+    <div class="container">
+        <div class="woocommerce">
+            <div class="row no-gutters">
+                <div class="col-md-8 col-lg-7 col-xl-6 offset-md-2 offset-lg-2 offset-xl-3 space-3 space-lg-0"
+                    id="customer_login">
+                    <div class="woocommerce-notices-wrapper"></div>
+                    <div class="tab-content mt-5">
+                        <div class="tab-pane active" id="customer-login-form" aria-labelledby="login-tab">
+                            <div class="mb-7">
+                                <p style="font-size: 1.3rem; color:#ffffff !important; font-weight:bold;">Login to manage your wallet.</p>
+                            </div>
+
+                            @if (!string.IsNullOrEmpty(ErrorMessage))
+                            {
+                                <div class="alert alert-danger alert-dismissible bg-danger" role="alert"
+                                style="color: white; border-radius: 10px">
+                                    <i class="fa fa-times-circle"></i> @ErrorMessage
+                                    <button type="button" class="close" @onclick="@(() => {ErrorMessage = string.Empty;})">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                            }
+
+                            @if (!RequireTwoFactor)
+                            {
+                                <EditForm class="login" Model="@LoginForm" OnValidSubmit="@OnValidSubmit">
+                                    <DataAnnotationsValidator />
+                                    <ValidationSummary />
+                                    <div class="form-group">
+                                        <label class="form-label text-light" for="email">Email Address</label>
+                                        <input @bind="LoginForm.email" type="email" class="form-control input-text"
+                                        name="email" autofocus/>
+                                    </div>
+                                    <div class="form-group">
+                                        <label class="form-label" for="password">
+                                            <span
+                                            class="d-flex justify-content-between align-items-center text-light">Password
+                                                <NavLink class="link-muted text-capitalize font-weight-normal" href="reset">
+                                                    Forgot Password?
+                                                </NavLink>
+                                            </span>
+                                        </label>
+                                        <input @bind="@LoginForm.password" class="form-control input-text" type="password"
+                                        name="password" />
+                                    </div>
+                                    <div class="row align-items-center mb-5">
+                                        <div class="col-6">
+                                            <span class="small text-muted">Don't have a wallet?</span>
+                                            <NavLink class="small login text-light" href="register">
+                                                Create
+                                            </NavLink>
+                                        </div>
+                                        <div class="col-6 text-right">
+                                            <button type="submit" class="btn btn-light transition-3d-hover button">
+                                                Login
+                                            </button>
+                                        </div>
+                                    </div>
+                                </EditForm>
+                            }
+                            @if (RequireTwoFactor)
+                            {
+                                <EditForm class="login" Model="@TwoFactorForm" OnValidSubmit="@ConfirmTwoFactor">
+                                    <DataAnnotationsValidator />
+                                    <ValidationSummary />
+                                    <div class="form-group">
+                                        <label class="form-label text-light" for="code">Authentication Code</label>
+                                        <input maxlength="5" placeholder="Enter your authentication code" @bind="TwoFactorForm.Code" type="text" class="form-control input-text"
+                                        name="code" />
+                                    </div>
+                                    <div class="row align-items-center mb-5">
+                                        <div class="col-6">
+                                            <span style="color: #ffffff !important" class="small text-muted">Don't have a wallet?</span>
+                                            <NavLink class="small login text-light" href="register">
+                                                Create
+                                            </NavLink>
+                                        </div>
+                                        <div class="col-6 text-right">
+                                            <button type="submit" class="btn btn-light transition-3d-hover button">
+                                                Submit
+                                            </button>
+                                        </div>
+                                    </div>
+                                </EditForm>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

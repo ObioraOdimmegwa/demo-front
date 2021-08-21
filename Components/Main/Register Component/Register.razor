@@ -1,0 +1,84 @@
+@inherits RegisterComponent
+@page "/register"
+
+
+<div class="d-flex align-items-center position-relative height-lg-100vh">
+
+    <div class="container">
+        <div class="woocommerce">
+            <div class="row no-gutters">
+                <div class="col-md-8 col-lg-7 col-xl-6 offset-md-2 offset-lg-2 offset-xl-3 space-3 space-lg-0"
+                    id="customer_login">
+                    <div class="woocommerce-notices-wrapper"></div>
+                    <div class="tab-content mt-5">
+                        <div class="tab-pane active" id="customer-register-form" aria-labelledby="register-tab">
+                            <div class="mb-7">
+                                <p style="font-size: 1.3rem; color:#ffffff !important; font-weight:bold;">Fill out the form to create your wallet.
+                                </p>
+                            </div>
+                            @if (!string.IsNullOrEmpty(ErrorMessage))
+                            {
+                                <div class="alert alert-danger alert-dismissible bg-danger" role="alert"
+                                style="color: white; border-radius: 10px">
+                                    <i class="fa fa-times-circle"></i> @ErrorMessage
+                                    <button type="button" class="close" @onclick="@(() => {ErrorMessage = string.Empty;})">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                            }
+
+                            <EditForm class="register" Model="@SignUpForm" OnValidSubmit="@OnValidSubmit">
+                                <DataAnnotationsValidator />
+                                <ValidationSummary />
+                                <input type="hidden" name="refcode" @bind="@SignUpForm.refcode">
+                                <div class="form-group">
+                                    <label class="form-label text-light" for="email">Email address</label>
+                                    <input @bind="@SignUpForm.email" class="form-control input-text" name="email" />
+                                </div>
+                                <div class="form-group">
+                                    <label class="form-label text-light" for="reg_email">Password</label>
+                                    <input type="password" @bind="@SignUpForm.password" class="form-control input-text"
+                                        name="password" />
+                                </div>
+                                <div class="form-group">
+                                    <label class="form-label text-light">Confirm Password</label>
+                                    <input type="password" @bind="@SignUpForm.confirmpassword"
+                                        class="form-control input-text" name="password_confirmation" />
+                                </div>
+                                <div class="mb-5">
+                                    <div class="custom-control custom-checkbox d-flex align-items-center text-muted">
+                                        <input @bind="@SignUpForm.accept" type="checkbox" class="custom-control-input"
+                                            id="termsCheckbox" name="accept" data-error-class="u-has-error"
+                                            data-success-class="u-has-success">
+                                        <label class="custom-control-label woocommerce-privacy-policy-text"
+                                            for="termsCheckbox">
+                                            <small style="color: #ffffff;">Your personal data will be used to support your experience throughout
+                                                this website, to manage access to your account, and for other purposes
+                                                described in our
+                                                <NavLink class="link-muted" href="privacy">privacy
+                                                    policy
+                                                </NavLink>.
+                                            </small>
+                                        </label>
+                                    </div>
+                                </div>
+                                <div class="row align-items-center mb-5">
+                                    <div class="col-5 col-sm-6">
+                                        <span class="small text-muted">Already have an account?</span>
+                                        <NavLink class="small login text-light" href="login">
+                                            Login
+                                        </NavLink>
+                                    </div>
+                                    <div class="col-7 col-sm-6 text-right">
+                                        <button type="submit" class="btn btn-light transition-3d-hover button">
+                                            Create Wallet</button>
+                                    </div>
+                                </div>
+                            </EditForm>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,66 @@
+@using Components
+
+@inherits LayoutComponentBase
+
+<AuthorizeView>
+    <Authorized>
+        <CascadingValue Value="this"></CascadingValue>
+        <link rel="stylesheet" href="stylesheets/dashlite.css?ver=2.2.0">
+        <link id="skin-default" rel="stylesheet" href="stylesheets/theme.css?ver=2.2.0">
+        <div class="nk-app-root">
+            <div class="nk-main ">
+                <WalletSideNav />
+                <div class="nk-wrap">
+                    <WalletNav />
+                    @Body
+                    <WalletFooter />
+                </div>
+            </div>
+        </div>
+    </Authorized>
+    <NotAuthorized>
+        @* <Blazor.Server.Components.Wallet.WalletLoader/> *@
+    </NotAuthorized>
+</AuthorizeView>
+
+@code
+{
+    [Inject]
+    public AuthenticationStateProvider authStateProvider { get; set; }
+    [Inject]
+    public ModelManager ModelManager { get; set; }
+    [Inject]
+    public NavigationManager NavigationManager { get; set; }
+    public bool inProcess = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (inProcess) return;
+        inProcess = true;
+        try
+        {
+            ModelManager.Updated += Updated;
+            AuthenticationState authState = await authStateProvider.GetAuthenticationStateAsync();
+            if (authState == ((AuthStateProvider)authStateProvider)._anonymous)
+            {
+                ((AuthStateProvider)authStateProvider).NotifyUserLogout();
+                return;
+            }
+            await ModelManager.Download();
+        }
+        catch
+        {
+            NavigationManager.NavigateTo("/login");
+        }
+        finally
+        {
+            inProcess = false;
+        }
+        await base.OnInitializedAsync();
+    }
+    private Task Updated()
+    {
+        InvokeAsync(StateHasChanged);
+        return Task.CompletedTask;
+    }
+}

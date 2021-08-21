@@ -1,0 +1,90 @@
+<!-- main header @s  -->
+<div class="nk-header nk-header-fluid nk-header-fixed is-light" style="background-color: #36454F!important;">
+    <div class="container-fluid">
+        <div class="nk-header-wrap">
+            <div class="nk-header-brand d-xl-none">
+                <NavLink href="/wallet" class="logo-link">
+                    <img class="logo-light logo-img" src="images/logo.png" alt="logo"
+                        style="height: 10px !important; width: 100px !important;">
+                    <img class="logo-dark logo-img" src="images/logo-dark.png" alt="logo-dark"
+                        style="height: 10px !important; width: 100px !important;">
+                </NavLink>
+            </div>
+            <div class="nk-header-news d-none d-xl-block">
+                <div class="nk-news-list">
+                    <a target="_blank" class="nk-news-item" href="https://corona.help/">
+                        <div class="nk-news-icon">
+                            <em class="icon ni ni-card-view"></em>
+                        </div>
+                        <div class="nk-news-text">
+                            <p style="color: #ffffff;">Get the latest updates on the corona virus. <span> Maintain
+                                    proper hygiene and stay
+                                    safe!</span></p>
+                            <em class="icon ni ni-external"></em>
+                        </div>
+                    </a>
+                </div>
+            </div>
+            <div class="nk-header-tools">
+                <ul class="nk-quick-nav">
+                    <li class="dropdown user-dropdown">
+                        <a class="dropdown-toggle">
+                            <div class="user-toggle">
+                                <div class="user-avatar sm icon-status icon-status-info">
+                                    <em class="icon ni ni-signout"></em>
+                                </div>
+                                <div class="user-info d-none d-md-block">
+                                    <div style="color: #E5E4E2; " class="user-name">@ModelManager.User.DisplayName</div>
+                                </div>
+                            </div>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-md dropdown-menu-right dropdown-menu-s1">
+                            <div class="dropdown-inner user-card-wrap bg-lighter d-none d-md-block">
+                                <div class="user-card">
+                                    <div class="user-avatar">
+                                        <span><em class="icon ni ni-signout"></em></span>
+                                    </div>
+                                    <div class="user-info">
+                                        <span class="lead-text">RickSanchez</span>
+                                        <span class="sub-text">Fignenuspo@biyac.com</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="dropdown-inner user-account-info">
+                                <h6 class="overline-title-alt">Available Balance</h6>
+                                <div class="user-balance">0.00 <small class="currency currency-btc">USD</small>
+                                </div>
+                            </div>
+                            <div class="dropdown-inner">
+                                <ul class="link-list">
+                                    <li><a href="https://perseuswallet.com/settings/profile"><em
+                                                class="icon ni ni-user-alt"></em><span>View Profile</span></a>
+                                    </li>
+                                    <li><a href="https://perseuswallet.com/settings/password"><em
+                                                class="icon ni ni-lock-alt"></em><span>Password
+                                                Setting</span></a></li>
+
+                                </ul>
+                            </div>
+                            <div class="dropdown-inner">
+                                <ul class="link-list">
+                                    <li><a href="javascript: void (0);"
+                                            onclick="event.preventDefault(); document.getElementById('logout-form').submit();"><em
+                                                class="icon ni ni-signout"></em><span>Sign out</span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- main header @e  -->
+
+@code
+{
+    [Inject]
+    public ModelManager ModelManager { get; set; }
+
+}

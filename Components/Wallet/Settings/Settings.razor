@@ -1,0 +1,51 @@
+@inherits SettingsComponent
+
+<!-- content @s  -->
+<div class="nk-content nk-content-fluid">
+    <div class="container-xl wide-lg">
+        <div class="nk-content-body">
+            <div class="nk-block-head">
+                <div class="nk-block-head-content">
+                    <div class="nk-block-head-sub"><span>Wallet Setting</span></div>
+                    <h2 class="nk-block-title fw-normal">@Header</h2>
+                    <div class="nk-block-des">
+                        <p>You have full control to manage your own wallet setting. <span class="text-primary"><em
+                                    class="icon ni ni-info"></em></span></p>
+                    </div>
+                </div>
+            </div><!-- .nk-block-head -->
+            <ul class="nk-nav nav nav-tabs">
+                <li class="nav-item @(_component == "profile" ? "active" : "")">
+                    <NavLink class="nav-link" href="/settings/profile">
+                        Personal
+                    </NavLink>
+                </li>
+                <li class="nav-item @(_component == "security" ? "active" : "")" >
+                    <NavLink class="nav-link" href="/settings/password">
+                        Security
+                    </NavLink>
+                </li>
+                <li class="nav-item @(_component == "preference" ? "active" : "")">
+                    <NavLink class="nav-link" href="/settings/preference">
+                        Preference
+                    </NavLink>
+                </li>
+            </ul><!-- .nk-menu -->
+            <!-- NK-Block @s  -->
+            @if(_component == "profile")
+            {
+                <ProfileSettings/>
+            }
+            @if(_component == "security")
+            {
+                <SecuritySettings/>
+            }
+            @if(_component == "preference")
+            {
+                <PreferenceSettings/>
+            }
+            <!-- NK-Block @e  -->
+            <!-- //  Content End -->
+        </div>
+    </div>
+</div>

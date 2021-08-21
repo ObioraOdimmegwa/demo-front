@@ -866,6 +866,6 @@ C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Ra
 C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Logo.razor.g.cs
 C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\RazorDeclaration\Components\Wallet\Loader.razor.g.cs
 C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\Razor\Components\Wallet\Loader.razor.g.cs
-C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\erjWn8gfDZDtd-_9rj55tErRV1nIUM7HYHpcEtP2iUU=.hash
-C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\dEBgoyz_KG8qebftIOEHjJ171OqyqNSOPkYoN_HiOnM=.hash
-C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\XcqlDcg2MyemFtR96O2AFifGXu-Uot5xPQAIupMvju4=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\Y25u4Ahc27B8e_6lCVn-lMzd4R4J6E89rDjS4A69sjU=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\y2G423Fjo0hJHqATkxPeICVdGVixMrV1LtSOKFwgt5M=.hash
+C:\Users\Expl0it90\Desktop\Finlexis Seperated\Client\obj\Debug\netstandard2.1\integrity\V0g7_7ZVru8IATTSpic6f3Zw_pBaFzwEBaW-sZUkuZc=.hash

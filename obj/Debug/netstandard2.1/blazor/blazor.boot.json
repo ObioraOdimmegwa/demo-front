@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "Client.dll": "sha256-erjWn8gfDZDtd\/+9rj55tErRV1nIUM7HYHpcEtP2iUU=",
+      "Client.dll": "sha256-Y25u4Ahc27B8e+6lCVn\/lMzd4R4J6E89rDjS4A69sjU=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-h63P3V3VGkeyevWhZZBqbi2sruaGouz0fvHR2raMPv0=",
       "Microsoft.Extensions.Options.dll": "sha256-\/KxO88LopcmCHlL\/8RLjXokuiCcxIz7RRGWqNaIlI2E=",
       "Microsoft.Extensions.Primitives.dll": "sha256-0IMatcYwuTLhZHDhLyWXBM9eIQJ1LHq6AmAhegebo\/g=",
@@ -65,7 +65,7 @@
       "Microsoft.AspNetCore.Components.Authorization.dll": "sha256-5lY1KL\/pA7kS\/OYycrkrhkXJKFHJHVbdmUTyPYaqDiM="
     },
     "pdb": {
-      "Client.pdb": "sha256-dEBgoyz+KG8qebftIOEHjJ171OqyqNSOPkYoN+HiOnM="
+      "Client.pdb": "sha256-y2G423Fjo0hJHqATkxPeICVdGVixMrV1LtSOKFwgt5M="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",

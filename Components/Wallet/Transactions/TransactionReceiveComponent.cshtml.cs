@@ -44,6 +44,7 @@ namespace Client
                     Coin = GetCoin(trans.Coin);
                     CoinIcon = GetCoinIcon(trans.Coin);
                     Amount = GetAmount(trans);
+                    Transaction = new Transaction(trans);
                 }
                 else
                 {

@@ -14,6 +14,16 @@ namespace Client
         public double Amount { get; set; }
         public string Currency { get; set; }
         public string Coin { get; set; }
+
+        public Transaction(){}
+        public Transaction(TransactionResponse res)
+        {
+            this.Id = res.Id;
+            this.Type = res.Type;
+            this.Currency = res.Currency;
+            this.Coin = res.Coin;
+            this.Amount = res.Amount;
+        }
     }
 
     public static class TransactionState

@@ -1111,178 +1111,6 @@
         }
       },
       {
-        "HashCode": -889975134,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Transactions.Transactions",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Transactions"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Transactions.Transactions"
-        }
-      },
-      {
-        "HashCode": 1111573141,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Transactions.Transactions",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Transactions.Transactions"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Transactions.Transactions",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1237684415,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Transactions.TransactionReceive",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TransactionReceive"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "TransactionId",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "TransactionId"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Transactions.TransactionReceive"
-        }
-      },
-      {
-        "HashCode": -1383415054,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Transactions.TransactionReceive",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Transactions.TransactionReceive"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "TransactionId",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "TransactionId"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Transactions.TransactionReceive",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -234894235,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoAssets",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ReceiveCryptoAssets"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoAssets"
-        }
-      },
-      {
-        "HashCode": -886649785,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoAssets",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Receive.ReceiveCryptoAssets"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoAssets",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1994179166,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoPage",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ReceiveCryptoPage"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "crypto",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "crypto"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoPage"
-        }
-      },
-      {
-        "HashCode": -1666706557,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoPage",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Receive.ReceiveCryptoPage"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "crypto",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "crypto"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoPage",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -880233411,
         "Kind": "Components.Component",
         "Name": "Client.Components.Wallet.Overview.Overview",
@@ -1447,6 +1275,178 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Client.Components.Wallet.WalletParent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1994179166,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoPage",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ReceiveCryptoPage"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "crypto",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "crypto"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoPage"
+        }
+      },
+      {
+        "HashCode": -1666706557,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoPage",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Receive.ReceiveCryptoPage"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "crypto",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "crypto"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoPage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -234894235,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoAssets",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ReceiveCryptoAssets"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoAssets"
+        }
+      },
+      {
+        "HashCode": -886649785,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoAssets",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Receive.ReceiveCryptoAssets"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoAssets",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1237684415,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Transactions.TransactionReceive",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TransactionReceive"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TransactionId",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "TransactionId"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Transactions.TransactionReceive"
+        }
+      },
+      {
+        "HashCode": -1383415054,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Transactions.TransactionReceive",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Transactions.TransactionReceive"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TransactionId",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "TransactionId"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Transactions.TransactionReceive",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -889975134,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Transactions.Transactions",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Transactions"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Transactions.Transactions"
+        }
+      },
+      {
+        "HashCode": 1111573141,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Transactions.Transactions",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Transactions.Transactions"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Transactions.Transactions",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

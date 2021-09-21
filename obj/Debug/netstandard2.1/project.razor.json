@@ -8,1482 +8,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 2023546477,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.Banner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Banner"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Page",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Page"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.Banner"
-        }
-      },
-      {
-        "HashCode": -1264765964,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.Banner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Banners.Banner"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Page",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Page"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.Banner",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1364645919,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.CareerBanner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CareerBanner"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.CareerBanner"
-        }
-      },
-      {
-        "HashCode": 715078808,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.CareerBanner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Banners.CareerBanner"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.CareerBanner",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1120674196,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.AboutBanner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "AboutBanner"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.AboutBanner"
-        }
-      },
-      {
-        "HashCode": -1628553046,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.AboutBanner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Banners.AboutBanner"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.AboutBanner",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -682265465,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.FaqBanners",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "FaqBanners"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.FaqBanners"
-        }
-      },
-      {
-        "HashCode": 1072131464,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.FaqBanners",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Banners.FaqBanners"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.FaqBanners",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1204914425,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.ServicesBanner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ServicesBanner"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.ServicesBanner"
-        }
-      },
-      {
-        "HashCode": 1535440774,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.ServicesBanner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Banners.ServicesBanner"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.ServicesBanner",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1786165810,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.TermsBanner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TermsBanner"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.TermsBanner"
-        }
-      },
-      {
-        "HashCode": 681192275,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.TermsBanner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Banners.TermsBanner"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.TermsBanner",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -174501781,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.ContactBanner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ContactBanner"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.ContactBanner"
-        }
-      },
-      {
-        "HashCode": -1929035713,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.ContactBanner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Banners.ContactBanner"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.ContactBanner",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1126448279,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.PrivacyBanner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PrivacyBanner"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.PrivacyBanner"
-        }
-      },
-      {
-        "HashCode": -1141532087,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.PrivacyBanner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Banners.PrivacyBanner"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.PrivacyBanner",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1560982060,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.HomeBanner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "HomeBanner"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.HomeBanner"
-        }
-      },
-      {
-        "HashCode": 1518013515,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Banners.HomeBanner",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Banners.HomeBanner"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Banners.HomeBanner",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -724800103,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Home",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Home"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Home"
-        }
-      },
-      {
-        "HashCode": 614547746,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Home",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Main.Home"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Home",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1488743342,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Careers",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Careers"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Careers"
-        }
-      },
-      {
-        "HashCode": 749094636,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Careers",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Main.Careers"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Careers",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1905117565,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.About",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "About"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.About"
-        }
-      },
-      {
-        "HashCode": 923867614,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.About",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Main.About"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.About",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 355356611,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Contact",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Contact"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Contact"
-        }
-      },
-      {
-        "HashCode": -1459856718,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Contact",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Main.Contact"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Contact",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -827335661,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Faq",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Faq"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Faq"
-        }
-      },
-      {
-        "HashCode": 519164577,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Faq",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Main.Faq"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Faq",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 47241989,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Terms",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Terms"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Terms"
-        }
-      },
-      {
-        "HashCode": 1374076286,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Terms",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Main.Terms"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Terms",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 814535578,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Privacy",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Privacy"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Privacy"
-        }
-      },
-      {
-        "HashCode": -905677148,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Privacy",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Main.Privacy"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Privacy",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 365783582,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Services",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Services"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Services"
-        }
-      },
-      {
-        "HashCode": 1096445420,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Services",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Main.Services"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Services",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 886670465,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Logout_Component.Logout",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Logout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Logout_Component.Logout"
-        }
-      },
-      {
-        "HashCode": 656627386,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Logout_Component.Logout",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Main.Logout_Component.Logout"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Logout_Component.Logout",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1584036974,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Register_Component.Register",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Register"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Register_Component.Register"
-        }
-      },
-      {
-        "HashCode": -148417771,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Register_Component.Register",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Main.Register_Component.Register"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Register_Component.Register",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 538128720,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Register_Component.CompleteRegistration",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "CompleteRegistration"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Register_Component.CompleteRegistration"
-        }
-      },
-      {
-        "HashCode": 1201110408,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Register_Component.CompleteRegistration",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Main.Register_Component.CompleteRegistration"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Register_Component.CompleteRegistration",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -93801751,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Login_Component.Login",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Login_Component.Login"
-        }
-      },
-      {
-        "HashCode": 302076517,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Login_Component.Login",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Main.Login_Component.Login"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Login_Component.Login",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -802485629,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Reset_Component.ResetPassword",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ResetPassword"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "token",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "token"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Reset_Component.ResetPassword"
-        }
-      },
-      {
-        "HashCode": 13871901,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Reset_Component.ResetPassword",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Main.Reset_Component.ResetPassword"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "token",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "token"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Reset_Component.ResetPassword",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 756815608,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Reset_Component.Reset",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Reset"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Reset_Component.Reset"
-        }
-      },
-      {
-        "HashCode": 1882698686,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Main.Reset_Component.Reset",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Main.Reset_Component.Reset"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Main.Reset_Component.Reset",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 92884225,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Send.SendCryptoPage",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SendCryptoPage"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "crypto",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "crypto"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Send.SendCryptoPage"
-        }
-      },
-      {
-        "HashCode": 1692878411,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Send.SendCryptoPage",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Send.SendCryptoPage"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "crypto",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "crypto"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Send.SendCryptoPage",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2096915109,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Send.SendCryptoAssets",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SendCryptoAssets"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Send.SendCryptoAssets"
-        }
-      },
-      {
-        "HashCode": -1188871758,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Send.SendCryptoAssets",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Send.SendCryptoAssets"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Send.SendCryptoAssets",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1233305047,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Settings.PreferenceSettings",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PreferenceSettings"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Settings.PreferenceSettings"
-        }
-      },
-      {
-        "HashCode": 712357556,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Settings.PreferenceSettings",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Settings.PreferenceSettings"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Settings.PreferenceSettings",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 248677343,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Settings.ProfileSettings",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ProfileSettings"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Settings.ProfileSettings"
-        }
-      },
-      {
-        "HashCode": 372496937,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Settings.ProfileSettings",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Settings.ProfileSettings"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Settings.ProfileSettings",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 368862384,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Settings.Settings",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Settings"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Settings.Settings"
-        }
-      },
-      {
-        "HashCode": -227459613,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Settings.Settings",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Settings.Settings"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Settings.Settings",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1634494112,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Settings.SecuritySettings",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SecuritySettings"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Settings.SecuritySettings"
-        }
-      },
-      {
-        "HashCode": 1223186779,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Settings.SecuritySettings",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Settings.SecuritySettings"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Settings.SecuritySettings",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1527082063,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Swap.SwapCryptoAssets",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SwapCryptoAssets"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Swap.SwapCryptoAssets"
-        }
-      },
-      {
-        "HashCode": 318195128,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Swap.SwapCryptoAssets",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Swap.SwapCryptoAssets"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Swap.SwapCryptoAssets",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1533679030,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Swap.Convert",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Convert"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "crypto",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "crypto"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Swap.Convert"
-        }
-      },
-      {
-        "HashCode": 535482972,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Swap.Convert",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Swap.Convert"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "crypto",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "crypto"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Swap.Convert",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -880233411,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Overview.Overview",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Overview"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Overview.Overview"
-        }
-      },
-      {
-        "HashCode": -1367977349,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Overview.Overview",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Overview.Overview"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Overview.Overview",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -2100448011,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Dapp.Dapp",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Dapp"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Dapp.Dapp"
-        }
-      },
-      {
-        "HashCode": -1294358645,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Dapp.Dapp",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Dapp.Dapp"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Dapp.Dapp",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1082742691,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Loader",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Loader"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Loader"
-        }
-      },
-      {
-        "HashCode": 60284765,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Loader",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Loader"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Loader",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 849435198,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.WalletParent",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "WalletParent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "crypto",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "crypto"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "TransactionId",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "TransactionId"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.WalletParent"
-        }
-      },
-      {
-        "HashCode": 115414735,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.WalletParent",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.WalletParent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "crypto",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "crypto"
-            }
-          },
-          {
-            "Kind": "Components.Component",
-            "Name": "TransactionId",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "TransactionId"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.WalletParent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1994179166,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoPage",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ReceiveCryptoPage"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "crypto",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "crypto"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoPage"
-        }
-      },
-      {
-        "HashCode": -1666706557,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoPage",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Receive.ReceiveCryptoPage"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "crypto",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "crypto"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoPage",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -234894235,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoAssets",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ReceiveCryptoAssets"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoAssets"
-        }
-      },
-      {
-        "HashCode": -886649785,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoAssets",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Receive.ReceiveCryptoAssets"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoAssets",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1237684415,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Transactions.TransactionReceive",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "TransactionReceive"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "TransactionId",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "TransactionId"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Transactions.TransactionReceive"
-        }
-      },
-      {
-        "HashCode": -1383415054,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Transactions.TransactionReceive",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Transactions.TransactionReceive"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "TransactionId",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "TransactionId"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Transactions.TransactionReceive",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -889975134,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Transactions.Transactions",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Transactions"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Transactions.Transactions"
-        }
-      },
-      {
-        "HashCode": 1111573141,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Wallet.Transactions.Transactions",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Wallet.Transactions.Transactions"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Wallet.Transactions.Transactions",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1407880005,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Logo",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Logo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Logo"
-        }
-      },
-      {
-        "HashCode": 786625814,
-        "Kind": "Components.Component",
-        "Name": "Client.Components.Logo",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Components.Logo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Components.Logo",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -290454566,
         "Kind": "Components.Component",
         "Name": "Client.LoginComponent",
@@ -1735,6 +259,39 @@
         }
       },
       {
+        "HashCode": 653065820,
+        "Kind": "Components.Component",
+        "Name": "Client.ReceiveCryptoAssetsComponent",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ReceiveCryptoAssetsComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.ReceiveCryptoAssetsComponent"
+        }
+      },
+      {
+        "HashCode": 83370101,
+        "Kind": "Components.Component",
+        "Name": "Client.ReceiveCryptoAssetsComponent",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.ReceiveCryptoAssetsComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.ReceiveCryptoAssetsComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 481248020,
         "Kind": "Components.Component",
         "Name": "Client.ReceiveCryptoPageComponent",
@@ -1784,6 +341,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Client.ReceiveCryptoPageComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 503605534,
+        "Kind": "Components.Component",
+        "Name": "Client.SendCryptoAssetsComponent",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SendCryptoAssetsComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.SendCryptoAssetsComponent"
+        }
+      },
+      {
+        "HashCode": -1893743220,
+        "Kind": "Components.Component",
+        "Name": "Client.SendCryptoAssetsComponent",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.SendCryptoAssetsComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.SendCryptoAssetsComponent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -1841,6 +431,39 @@
         }
       },
       {
+        "HashCode": -690679099,
+        "Kind": "Components.Component",
+        "Name": "Client.PreferenceSettingsComponent",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PreferenceSettingsComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.PreferenceSettingsComponent"
+        }
+      },
+      {
+        "HashCode": 2147212198,
+        "Kind": "Components.Component",
+        "Name": "Client.PreferenceSettingsComponent",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.PreferenceSettingsComponent"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.PreferenceSettingsComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 8918160,
         "Kind": "Components.Component",
         "Name": "Client.ProfileSettingsComponent",
@@ -1870,39 +493,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Client.ProfileSettingsComponent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 503605534,
-        "Kind": "Components.Component",
-        "Name": "Client.SendCryptoAssetsComponent",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SendCryptoAssetsComponent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.SendCryptoAssetsComponent"
-        }
-      },
-      {
-        "HashCode": -1893743220,
-        "Kind": "Components.Component",
-        "Name": "Client.SendCryptoAssetsComponent",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.SendCryptoAssetsComponent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.SendCryptoAssetsComponent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -1940,39 +530,6 @@
         }
       },
       {
-        "HashCode": -690679099,
-        "Kind": "Components.Component",
-        "Name": "Client.PreferenceSettingsComponent",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "PreferenceSettingsComponent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.PreferenceSettingsComponent"
-        }
-      },
-      {
-        "HashCode": 2147212198,
-        "Kind": "Components.Component",
-        "Name": "Client.PreferenceSettingsComponent",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.PreferenceSettingsComponent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.PreferenceSettingsComponent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": -416188603,
         "Kind": "Components.Component",
         "Name": "Client.SettingsComponent",
@@ -2002,6 +559,59 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "Client.SettingsComponent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 824908985,
+        "Kind": "Components.Component",
+        "Name": "Client.ConvertComponent",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ConvertComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "crypto",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "crypto"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.ConvertComponent"
+        }
+      },
+      {
+        "HashCode": -1371928062,
+        "Kind": "Components.Component",
+        "Name": "Client.ConvertComponent",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.ConvertComponent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "crypto",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "crypto"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.ConvertComponent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -2125,92 +735,6 @@
         }
       },
       {
-        "HashCode": 653065820,
-        "Kind": "Components.Component",
-        "Name": "Client.ReceiveCryptoAssetsComponent",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ReceiveCryptoAssetsComponent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.ReceiveCryptoAssetsComponent"
-        }
-      },
-      {
-        "HashCode": 83370101,
-        "Kind": "Components.Component",
-        "Name": "Client.ReceiveCryptoAssetsComponent",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.ReceiveCryptoAssetsComponent"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.ReceiveCryptoAssetsComponent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 824908985,
-        "Kind": "Components.Component",
-        "Name": "Client.ConvertComponent",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ConvertComponent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "crypto",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "crypto"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.ConvertComponent"
-        }
-      },
-      {
-        "HashCode": -1371928062,
-        "Kind": "Components.Component",
-        "Name": "Client.ConvertComponent",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.ConvertComponent"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "crypto",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "crypto"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.ConvertComponent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 581420230,
         "Kind": "Components.Component",
         "Name": "Client.WalletParentComponent",
@@ -2280,35 +804,1511 @@
         }
       },
       {
-        "HashCode": -1085683454,
+        "HashCode": -1360774716,
         "Kind": "Components.Component",
-        "Name": "Client.Shared.AuthNav",
+        "Name": "Client.App",
         "AssemblyName": "Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "AuthNav"
+            "TagName": "App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.AuthNav"
+          "Common.TypeName": "Client.App"
         }
       },
       {
-        "HashCode": 1820512438,
+        "HashCode": 620663355,
         "Kind": "Components.Component",
-        "Name": "Client.Shared.AuthNav",
+        "Name": "Client.App",
         "AssemblyName": "Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Client.Shared.AuthNav"
+            "TagName": "Client.App"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.AuthNav",
+          "Common.TypeName": "Client.App",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1120674196,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.AboutBanner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AboutBanner"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.AboutBanner"
+        }
+      },
+      {
+        "HashCode": -1628553046,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.AboutBanner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Banners.AboutBanner"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.AboutBanner",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 2023546477,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.Banner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Banner"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Page",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Page"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.Banner"
+        }
+      },
+      {
+        "HashCode": -1264765964,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.Banner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Banners.Banner"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Page",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Page"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.Banner",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1364645919,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.CareerBanner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CareerBanner"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.CareerBanner"
+        }
+      },
+      {
+        "HashCode": 715078808,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.CareerBanner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Banners.CareerBanner"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.CareerBanner",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -174501781,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.ContactBanner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ContactBanner"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.ContactBanner"
+        }
+      },
+      {
+        "HashCode": -1929035713,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.ContactBanner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Banners.ContactBanner"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.ContactBanner",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -682265465,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.FaqBanners",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "FaqBanners"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.FaqBanners"
+        }
+      },
+      {
+        "HashCode": 1072131464,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.FaqBanners",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Banners.FaqBanners"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.FaqBanners",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1560982060,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.HomeBanner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "HomeBanner"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.HomeBanner"
+        }
+      },
+      {
+        "HashCode": 1518013515,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.HomeBanner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Banners.HomeBanner"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.HomeBanner",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1126448279,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.PrivacyBanner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PrivacyBanner"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.PrivacyBanner"
+        }
+      },
+      {
+        "HashCode": -1141532087,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.PrivacyBanner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Banners.PrivacyBanner"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.PrivacyBanner",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1204914425,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.ServicesBanner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ServicesBanner"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.ServicesBanner"
+        }
+      },
+      {
+        "HashCode": 1535440774,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.ServicesBanner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Banners.ServicesBanner"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.ServicesBanner",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1786165810,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.TermsBanner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TermsBanner"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.TermsBanner"
+        }
+      },
+      {
+        "HashCode": 681192275,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Banners.TermsBanner",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Banners.TermsBanner"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Banners.TermsBanner",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1407880005,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Logo",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Logo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Logo"
+        }
+      },
+      {
+        "HashCode": 786625814,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Logo",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Logo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Logo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1905117565,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.About",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "About"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.About"
+        }
+      },
+      {
+        "HashCode": 923867614,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.About",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Main.About"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.About",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1488743342,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Careers",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Careers"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Careers"
+        }
+      },
+      {
+        "HashCode": 749094636,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Careers",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Main.Careers"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Careers",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 355356611,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Contact",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Contact"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Contact"
+        }
+      },
+      {
+        "HashCode": -1459856718,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Contact",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Main.Contact"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Contact",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -827335661,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Faq",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Faq"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Faq"
+        }
+      },
+      {
+        "HashCode": 519164577,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Faq",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Main.Faq"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Faq",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -724800103,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Home",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Home"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Home"
+        }
+      },
+      {
+        "HashCode": 614547746,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Home",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Main.Home"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Home",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -93801751,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Login_Component.Login",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Login_Component.Login"
+        }
+      },
+      {
+        "HashCode": 302076517,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Login_Component.Login",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Main.Login_Component.Login"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Login_Component.Login",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 886670465,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Logout_Component.Logout",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Logout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Logout_Component.Logout"
+        }
+      },
+      {
+        "HashCode": 656627386,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Logout_Component.Logout",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Main.Logout_Component.Logout"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Logout_Component.Logout",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 814535578,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Privacy",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Privacy"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Privacy"
+        }
+      },
+      {
+        "HashCode": -905677148,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Privacy",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Main.Privacy"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Privacy",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 538128720,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Register_Component.CompleteRegistration",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "CompleteRegistration"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Register_Component.CompleteRegistration"
+        }
+      },
+      {
+        "HashCode": 1201110408,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Register_Component.CompleteRegistration",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Main.Register_Component.CompleteRegistration"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Register_Component.CompleteRegistration",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1584036974,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Register_Component.Register",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Register"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Register_Component.Register"
+        }
+      },
+      {
+        "HashCode": -148417771,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Register_Component.Register",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Main.Register_Component.Register"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Register_Component.Register",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 756815608,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Reset_Component.Reset",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Reset"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Reset_Component.Reset"
+        }
+      },
+      {
+        "HashCode": 1882698686,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Reset_Component.Reset",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Main.Reset_Component.Reset"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Reset_Component.Reset",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -802485629,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Reset_Component.ResetPassword",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ResetPassword"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "token",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "token"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Reset_Component.ResetPassword"
+        }
+      },
+      {
+        "HashCode": 13871901,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Reset_Component.ResetPassword",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Main.Reset_Component.ResetPassword"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "token",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "token"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Reset_Component.ResetPassword",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 365783582,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Services",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Services"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Services"
+        }
+      },
+      {
+        "HashCode": 1096445420,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Services",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Main.Services"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Services",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 47241989,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Terms",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Terms"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Terms"
+        }
+      },
+      {
+        "HashCode": 1374076286,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Main.Terms",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Main.Terms"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Main.Terms",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2100448011,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Dapp.Dapp",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Dapp"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Dapp.Dapp"
+        }
+      },
+      {
+        "HashCode": -1294358645,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Dapp.Dapp",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Dapp.Dapp"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Dapp.Dapp",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1082742691,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Loader",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Loader"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Loader"
+        }
+      },
+      {
+        "HashCode": 60284765,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Loader",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Loader"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Loader",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -880233411,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Overview.Overview",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Overview"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Overview.Overview"
+        }
+      },
+      {
+        "HashCode": -1367977349,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Overview.Overview",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Overview.Overview"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Overview.Overview",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -234894235,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoAssets",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ReceiveCryptoAssets"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoAssets"
+        }
+      },
+      {
+        "HashCode": -886649785,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoAssets",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Receive.ReceiveCryptoAssets"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoAssets",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1994179166,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoPage",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ReceiveCryptoPage"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "crypto",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "crypto"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoPage"
+        }
+      },
+      {
+        "HashCode": -1666706557,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Receive.ReceiveCryptoPage",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Receive.ReceiveCryptoPage"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "crypto",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "crypto"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Receive.ReceiveCryptoPage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -2096915109,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Send.SendCryptoAssets",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SendCryptoAssets"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Send.SendCryptoAssets"
+        }
+      },
+      {
+        "HashCode": -1188871758,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Send.SendCryptoAssets",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Send.SendCryptoAssets"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Send.SendCryptoAssets",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 92884225,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Send.SendCryptoPage",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SendCryptoPage"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "crypto",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "crypto"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Send.SendCryptoPage"
+        }
+      },
+      {
+        "HashCode": 1692878411,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Send.SendCryptoPage",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Send.SendCryptoPage"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "crypto",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "crypto"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Send.SendCryptoPage",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1233305047,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Settings.PreferenceSettings",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "PreferenceSettings"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Settings.PreferenceSettings"
+        }
+      },
+      {
+        "HashCode": 712357556,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Settings.PreferenceSettings",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Settings.PreferenceSettings"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Settings.PreferenceSettings",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 248677343,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Settings.ProfileSettings",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ProfileSettings"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Settings.ProfileSettings"
+        }
+      },
+      {
+        "HashCode": 372496937,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Settings.ProfileSettings",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Settings.ProfileSettings"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Settings.ProfileSettings",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1634494112,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Settings.SecuritySettings",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SecuritySettings"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Settings.SecuritySettings"
+        }
+      },
+      {
+        "HashCode": 1223186779,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Settings.SecuritySettings",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Settings.SecuritySettings"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Settings.SecuritySettings",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 368862384,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Settings.Settings",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Settings"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Settings.Settings"
+        }
+      },
+      {
+        "HashCode": -227459613,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Settings.Settings",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Settings.Settings"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Settings.Settings",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1533679030,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Swap.Convert",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Convert"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "crypto",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "crypto"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Swap.Convert"
+        }
+      },
+      {
+        "HashCode": 535482972,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Swap.Convert",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Swap.Convert"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "crypto",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "crypto"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Swap.Convert",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1527082063,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Swap.SwapCryptoAssets",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SwapCryptoAssets"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Swap.SwapCryptoAssets"
+        }
+      },
+      {
+        "HashCode": 318195128,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Swap.SwapCryptoAssets",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Swap.SwapCryptoAssets"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Swap.SwapCryptoAssets",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1237684415,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Transactions.TransactionReceive",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "TransactionReceive"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TransactionId",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "TransactionId"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Transactions.TransactionReceive"
+        }
+      },
+      {
+        "HashCode": -1383415054,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Transactions.TransactionReceive",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Transactions.TransactionReceive"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "TransactionId",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "TransactionId"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Transactions.TransactionReceive",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -889975134,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Transactions.Transactions",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Transactions"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Transactions.Transactions"
+        }
+      },
+      {
+        "HashCode": 1111573141,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.Transactions.Transactions",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.Transactions.Transactions"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.Transactions.Transactions",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 849435198,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.WalletParent",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "WalletParent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "crypto",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "crypto"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "TransactionId",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "TransactionId"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.WalletParent"
+        }
+      },
+      {
+        "HashCode": 115414735,
+        "Kind": "Components.Component",
+        "Name": "Client.Components.Wallet.WalletParent",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Components.Wallet.WalletParent"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "crypto",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "crypto"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "TransactionId",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "TransactionId"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Components.Wallet.WalletParent",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -2409,6 +2409,39 @@
         }
       },
       {
+        "HashCode": -1085683454,
+        "Kind": "Components.Component",
+        "Name": "Client.Shared.AuthNav",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "AuthNav"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Shared.AuthNav"
+        }
+      },
+      {
+        "HashCode": 1820512438,
+        "Kind": "Components.Component",
+        "Name": "Client.Shared.AuthNav",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Shared.AuthNav"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Shared.AuthNav",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1467064433,
         "Kind": "Components.Component",
         "Name": "Client.Shared.EmptyLayout",
@@ -2501,6 +2534,39 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "Client.Shared.EmptyLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1957600122,
+        "Kind": "Components.Component",
+        "Name": "Client.Shared.MainFooter",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "MainFooter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Shared.MainFooter"
+        }
+      },
+      {
+        "HashCode": -158073188,
+        "Kind": "Components.Component",
+        "Name": "Client.Shared.MainFooter",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Shared.MainFooter"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Shared.MainFooter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -2601,72 +2667,6 @@
         }
       },
       {
-        "HashCode": 1957600122,
-        "Kind": "Components.Component",
-        "Name": "Client.Shared.MainFooter",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "MainFooter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.MainFooter"
-        }
-      },
-      {
-        "HashCode": -158073188,
-        "Kind": "Components.Component",
-        "Name": "Client.Shared.MainFooter",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Shared.MainFooter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.MainFooter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1135630198,
-        "Kind": "Components.Component",
-        "Name": "Client.Shared.WalletFooter",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "WalletFooter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.WalletFooter"
-        }
-      },
-      {
-        "HashCode": -993193759,
-        "Kind": "Components.Component",
-        "Name": "Client.Shared.WalletFooter",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Shared.WalletFooter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.WalletFooter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 872657328,
         "Kind": "Components.Component",
         "Name": "Client.Shared.MainNavMenu",
@@ -2700,260 +2700,35 @@
         }
       },
       {
-        "HashCode": 1281702442,
+        "HashCode": -1135630198,
         "Kind": "Components.Component",
-        "Name": "Client.Shared.WalletSideNav",
+        "Name": "Client.Shared.WalletFooter",
         "AssemblyName": "Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "WalletSideNav"
+            "TagName": "WalletFooter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.WalletSideNav"
+          "Common.TypeName": "Client.Shared.WalletFooter"
         }
       },
       {
-        "HashCode": 21449531,
+        "HashCode": -993193759,
         "Kind": "Components.Component",
-        "Name": "Client.Shared.WalletSideNav",
+        "Name": "Client.Shared.WalletFooter",
         "AssemblyName": "Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Client.Shared.WalletSideNav"
+            "TagName": "Client.Shared.WalletFooter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.WalletSideNav",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1753124121,
-        "Kind": "Components.Component",
-        "Name": "Client.Shared.WalletNavs",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "WalletNavs"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.WalletNavs"
-        }
-      },
-      {
-        "HashCode": 328197578,
-        "Kind": "Components.Component",
-        "Name": "Client.Shared.WalletNavs",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Shared.WalletNavs"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.WalletNavs",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1006652590,
-        "Kind": "Components.ChildContent",
-        "Name": "Client.Shared.WalletNavs.Body",
-        "AssemblyName": "Client",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "WalletNavs"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "Client.Shared.WalletNavs.Body",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": 1216526640,
-        "Kind": "Components.ChildContent",
-        "Name": "Client.Shared.WalletNavs.Body",
-        "AssemblyName": "Client",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "Client.Shared.WalletNavs"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "Client.Shared.WalletNavs.Body",
-          "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -1410298325,
-        "Kind": "Components.Component",
-        "Name": "Client.Shared.WalletNav",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "WalletNav"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.WalletNav"
-        }
-      },
-      {
-        "HashCode": -2122475620,
-        "Kind": "Components.Component",
-        "Name": "Client.Shared.WalletNav",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Shared.WalletNav"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.WalletNav",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 164687324,
-        "Kind": "Components.Component",
-        "Name": "Client.Shared.WalletLayout_DEL",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "WalletLayout_DEL"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.WalletLayout_DEL"
-        }
-      },
-      {
-        "HashCode": 77365072,
-        "Kind": "Components.Component",
-        "Name": "Client.Shared.WalletLayout_DEL",
-        "AssemblyName": "Client",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Client.Shared.WalletLayout_DEL"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Body",
-            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
-            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-            "Metadata": {
-              "Common.PropertyName": "Body",
-              "Components.ChildContent": "True"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.Shared.WalletLayout_DEL",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1808214541,
-        "Kind": "Components.ChildContent",
-        "Name": "Client.Shared.WalletLayout_DEL.Body",
-        "AssemblyName": "Client",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "WalletLayout_DEL"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "Client.Shared.WalletLayout_DEL.Body",
-          "Components.IsSpecialKind": "Components.ChildContent"
-        }
-      },
-      {
-        "HashCode": -2051688092,
-        "Kind": "Components.ChildContent",
-        "Name": "Client.Shared.WalletLayout_DEL.Body",
-        "AssemblyName": "Client",
-        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Body",
-            "ParentTag": "Client.Shared.WalletLayout_DEL"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.None",
-          "Common.TypeName": "Client.Shared.WalletLayout_DEL.Body",
-          "Components.IsSpecialKind": "Components.ChildContent",
+          "Common.TypeName": "Client.Shared.WalletFooter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -3054,35 +2829,260 @@
         }
       },
       {
-        "HashCode": -1360774716,
+        "HashCode": 164687324,
         "Kind": "Components.Component",
-        "Name": "Client.App",
+        "Name": "Client.Shared.WalletLayout_DEL",
         "AssemblyName": "Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "WalletLayout_DEL"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.App"
+          "Common.TypeName": "Client.Shared.WalletLayout_DEL"
         }
       },
       {
-        "HashCode": 620663355,
+        "HashCode": 77365072,
         "Kind": "Components.Component",
-        "Name": "Client.App",
+        "Name": "Client.Shared.WalletLayout_DEL",
         "AssemblyName": "Client",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Client.App"
+            "TagName": "Client.Shared.WalletLayout_DEL"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "Client.App",
+          "Common.TypeName": "Client.Shared.WalletLayout_DEL",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1808214541,
+        "Kind": "Components.ChildContent",
+        "Name": "Client.Shared.WalletLayout_DEL.Body",
+        "AssemblyName": "Client",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "WalletLayout_DEL"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Client.Shared.WalletLayout_DEL.Body",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": -2051688092,
+        "Kind": "Components.ChildContent",
+        "Name": "Client.Shared.WalletLayout_DEL.Body",
+        "AssemblyName": "Client",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "Client.Shared.WalletLayout_DEL"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Client.Shared.WalletLayout_DEL.Body",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1410298325,
+        "Kind": "Components.Component",
+        "Name": "Client.Shared.WalletNav",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "WalletNav"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Shared.WalletNav"
+        }
+      },
+      {
+        "HashCode": -2122475620,
+        "Kind": "Components.Component",
+        "Name": "Client.Shared.WalletNav",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Shared.WalletNav"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Shared.WalletNav",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1753124121,
+        "Kind": "Components.Component",
+        "Name": "Client.Shared.WalletNavs",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "WalletNavs"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Shared.WalletNavs"
+        }
+      },
+      {
+        "HashCode": 328197578,
+        "Kind": "Components.Component",
+        "Name": "Client.Shared.WalletNavs",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Shared.WalletNavs"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Body",
+            "TypeName": "Microsoft.AspNetCore.Components.RenderFragment",
+            "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+            "Metadata": {
+              "Common.PropertyName": "Body",
+              "Components.ChildContent": "True"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Shared.WalletNavs",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1006652590,
+        "Kind": "Components.ChildContent",
+        "Name": "Client.Shared.WalletNavs.Body",
+        "AssemblyName": "Client",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "WalletNavs"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Client.Shared.WalletNavs.Body",
+          "Components.IsSpecialKind": "Components.ChildContent"
+        }
+      },
+      {
+        "HashCode": 1216526640,
+        "Kind": "Components.ChildContent",
+        "Name": "Client.Shared.WalletNavs.Body",
+        "AssemblyName": "Client",
+        "Documentation": "\n            <summary>\n            Gets the content to be rendered inside the layout.\n            </summary>\n        ",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Body",
+            "ParentTag": "Client.Shared.WalletNavs"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.None",
+          "Common.TypeName": "Client.Shared.WalletNavs.Body",
+          "Components.IsSpecialKind": "Components.ChildContent",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1281702442,
+        "Kind": "Components.Component",
+        "Name": "Client.Shared.WalletSideNav",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "WalletSideNav"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Shared.WalletSideNav"
+        }
+      },
+      {
+        "HashCode": 21449531,
+        "Kind": "Components.Component",
+        "Name": "Client.Shared.WalletSideNav",
+        "AssemblyName": "Client",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Client.Shared.WalletSideNav"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "Client.Shared.WalletSideNav",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },

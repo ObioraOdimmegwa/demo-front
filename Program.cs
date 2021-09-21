@@ -19,7 +19,7 @@ namespace Client
         {
             var builder = WebAssemblyHostBuilder.CreateDefault(args);
             builder.RootComponents.Add<App>("app");
-            builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://websitedemoapi.azurewebsites.net") });
+            builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://websiteback.azurewebsites.net") });
             builder.Services.AddBlazoredLocalStorage();
             builder.Services.AddAuthorizationCore();
             builder.Services.AddScoped<AuthenticationStateProvider, AuthStateProvider>();
